@@ -1,0 +1,43 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.manifest
+*.spec
+*.log
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables (Protect secrets)
+.env
+.env.local
+.env.*.local
+
+# --- Node.js / Next.js (Frontend) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# --- IDE & System ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+ems_protocols.json
+
+ems-protocol-radio-frontend
+
+.env

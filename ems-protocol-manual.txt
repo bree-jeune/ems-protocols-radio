@@ -1,0 +1,5510 @@
+CLARK COUNTY EMS SYSTEM
+EMERGENCY MEDICAL CARE PROTOCOLS
+
+
+
+
+
+
+EFFECTIVE: October 15, 2025
+(Replaces January 6, 2025 Version)
+
+
+
+
+
+PO BOX 3902 - LAS VEGAS, NV 89127
+
+TABLE OF CONTENTS
+
+Foreword	5
+Terms and Conventions	8
+ADULT TREATMENT PROTOCOLS	10
+General Adult Assessment	11
+General Adult Trauma Assessment	13
+Abdominal Pain/Flank Pain, Nausea & Vomiting	15
+Allergic Reaction	17
+Altered Mental Status/Syncope	19
+Behavioral Emergencies	21
+Bradycardia	23
+Burns	25
+Cardiac Arrest (Non-Traumatic)	27
+Chest Pain (Non-Traumatic) and Suspected Acute Coronary Syndrome	29
+Cold Related Illness	31
+Epistaxis	33
+Heat-Related Illness	35
+Hyperkalemia (Suspected)	37
+OB-Obstetric Emergency	39
+OB-Preeclampsia/Eclampsia...	41
+OB-Uncomplicated Childbirth/Labor...	43
+Overdose/Poisoning	45
+Pain Management	47
+Pulmonary Edema/CHF	49
+Respiratory Distress	51
+Seizure	53
+Sepsis	55
+Shock	57
+Smoke Inhalation	59
+STEMI (Suspected)	61
+Stroke (CVA)	63
+Tachycardia/Stable	65
+Tachycardia/Unstable	67
+Ventilation Management	69
+PEDIATRIC TREATMENT PROTOCOLS	71
+General Pediatric Assessment	72
+General Pediatric Trauma Assessment	74
+Abdominal/Flank Pain, Nausea & Vomiting	76
+Allergic Reaction	78
+Altered Mental Status	80
+Behavioral Emergencies	82
+Bradycardia	84
+Burns	86
+PEDIATRIC TREATMENT PROTOCOLS (Cont.)
+Cardiac Arrest (Non-Traumatic)	88
+Cold Related Illness	90
+Epistaxsis	92
+Heat Related Illness	94
+Neonatal Resuscitation	96
+Overdose/Poisoning	98
+Pain Management	100
+Respiratory Distress	102
+Seizure	104
+Shock	106
+Smoke Inhalation	108
+Tachycardia/Stable	110
+Tachycardia/Unstable	112
+Ventilation Management	114
+OPERATIONS PROTOCOLS	116
+Communications	117
+Do Not Resuscitate (DNR/POLST)	119
+Documentation	121
+Hostile Mass Casualty Incident	122
+Inter-Facility Transfer of Patients by Ambulance	123
+Pediatric Patient Destination	124
+Prehospital Death Determination	125
+Public Intoxication/Mental Health Crisis	126
+Quality Improvement Review	127
+Termination of Resuscitation	128
+Transport Destinations	129
+Trauma Field Triage Criteria	131
+Waiting Room Criteria	132
+PROCEDURES PROTOCOLS	133
+Cervical Stabilization	134
+Electrical Therapy/Defibrillation	135
+Electrical Therapy/Synchronized Cardioversion	136
+Electrical Therapy/Transcutaneous Pacing	137
+Endotracheal Intubation	138
+Extraglottic Device	140
+First Response Evaluate/Release	141
+Hemorrhage Control	142
+Medication Administration	143
+Needle Cricothyroidotomy	144
+Needle Thoracostomy	145
+Non-Invasive Positive Pressure Ventilation (NIPPV)	146
+Patient Restraint	147
+PROCEDURES PROTOCOLS (Cont.)
+Tracheostomy Tube Replacement...	149
+Traction Splint	150
+Vagal Maneuvers	151
+Vascular Access	152
+FORMULARY	153
+
+APPENDICES	APP
+First Response Low-Risk Alpha Evaluate and Release Form (example)	A
+Release of Medical Assistance	B
+Scope of Practice	C
+Telemetry Radio Map	D
+Mass Casualty Incident	E
+
+FOREWORD
+EMERGENCY MEDICAL SERVICES PROTOCOL MANUAL
+
+Optimal prehospital care results from a combination of careful patient assessment, essential prehospital emergency medical services, and appropriate medical consultation. The purpose of this manual is to provide guidance for ALL prehospital care providers and emergency department physicians within the Clark County EMS System.
+
+The GOAL of the manual is to STANDARDIZE prehospital patient care in Clark County. It is to be understood that these protocols are guidelines. Nothing contained in these protocols shall be construed to expand the scope of practice of any licensed Attendant beyond that which is identified in the Clark County Emergency Medical Services Regulations and these protocols (Appendix C).
+
+NOTHING contained within these protocols is meant to delay rapid patient transport to a receiving facility. Patient care should be rendered while en-route to a definitive treatment facility.
+
+The General Assessment protocols must be followed in the specific sequence noted. For all other
+treatment protocols, the algorithm defines the care every patient should receive, usually in the order described.
+
+To maintain the life of a specific patient, it may be necessary, in rare instances, for the physician providing on-line medical consultation, as part of the EMS consultation system, to direct a prehospital provider in rendering care that is not explicitly listed within these protocols, to include administering a patient's own medications which are not part of the approved formulary. To proceed with such an order, both the telemetry physician and the provider must acknowledge and agree that the patient's condition and extraordinary care are not addressed elsewhere within these medical protocols, and
+that the order is in the best interest of patient care. Additionally, the provider must feel capable, based on the instructions given by the telemetry physician, of correctly performing the directed care.
+Whenever such care is provided, the telemetry physician and the provider must immediately notify the
+Office of EMS & Trauma System (OEMSTS) of the extraordinary care situation. In addition, the provider must immediately, upon completion of the call, make available the prehospital care record and documentation specifying the nature of the deviation and the ordering physician's name to the OEMSTS. All such incidents will be entered into the Quality Improvement Review process.
+
+Occasionally a situation may arise in which a physician's order cannot be carried out, e.g., the provider feels the administration of an ordered medication would endanger the patient, a medication is not available, or a physician's order is outside of protocol. If this occurs, the provider must immediately notify the telemetry physician as to the reason the order cannot be carried out, and indicate on the prehospital care record what was ordered, the time, and the reason the order could
+not be carried out. In addition, the provider must immediately notify the OEMSTS, and upon completion of the call, make available the prehospital care record to the OEMSTS. All such incidents will be
+entered into the Quality Improvement Review process.
+
+
+
+
+
+
+5
+
+Protocol Key:
+
+Caution / Warning / Alert
+
+Pediatric Treatment Consideration (for patients less than 12 years of age) Telemetry Contact Required
+Specific Protocol
+
+E	EMT Licensed Attendant and above may perform these steps A	AEMT Licensed Attendant and above may perform these steps P	Paramedic Licensed Attendant
+Definition of a patient:
+A patient is any individual that meets at least one of the following criteria:
+1) A person who has a complaint or mechanism suggestive of potential illness or injury;
+2) A person who has obvious evidence of illness or injury; or
+3) A person identified by an informed 2nd or 3rd party caller as requiring evaluation for potential illness or injury.
+
+Pediatric patient considerations:
+For patients <18 years old, use the Pediatric Patient Destination protocol.
+Pediatric treatment protocols are to be used on children who have not yet experienced puberty. Signs of puberty include chest or underarm hair on males, and any breast development in females.
+
+These protocols have been developed specifically for the Clark County EMS System and represent consensus among all of the Clark County EMS agency medical directors and the District
+Health Officer. The protocols demonstrate a commitment to a consistent approach to quality patient care.
+
+From time to time, protocols may be added or revised by the District Health Officer upon recommendation by the Medical Advisory Board (MAB). Additional recommendations are welcome and appreciated
+at any time. They may be submitted to the OEMSTS for consideration and referral to the Medical Advisory Board.
+Southern Nevada Health District
+Office of Emergency Medical Services & Trauma System
+P.O. Box 3902
+Las Vegas, Nevada 89127
+Physical address:
+280 S Decatur Blvd Las Vegas, NV 89152
+Office Hours: Mon-Thur 8:00 am to 4:30 pm
+Questions may also be telephoned to EMS staff at (702) 759-1050, or visit our website at http://www.southernnevadahealthdistrict.org/ems/index.php.
+
+
+
+6
+
+District Health Officer: Cassius Lockett, PhD
+EMS Agency Medical Directors who serve on the Medical Advisory Board:
+Dan Rollins, MD, Boulder City Fire Department
+Scott Scherr, MD, Clark County Fire Department and Guardian Elite Medical Services Michael Holtz, MD, Clark County Fire Department
+Jessica Leduc, DO, Henderson Fire Department Nate Jenson, DO, Mesquite Fire & Rescue
+Ryan Hodnick, DO, Moapa Valley Fire District and Mt. Charleston Fire Protection District Kelly Morgan, MD, Las Vegas Fire and Rescue
+Mike Barnum, MD, American Medical Response Jeff Davidson, MD, MedicWest Ambulance David Obert, DO, Community Ambulance
+Stephen DuMontier, DO, North Las Vegas Fire Department
+
+OEMSTS Staff:
+Christian Young, MD, EMS & Trauma System Medical Director [YoungC@snhd.org]
+John Hammond, BS, Paramedic, EMS & Trauma System Manager [Hammond@snhd.org] Laura Palmer, MSML, Paramedic, EMS & Trauma System Supervisor [PalmerL@snhd.org] Stacy Johnson, MSN, RN, Regional Trauma Coordinator [johnsons@snhd.org]
+Roni Mauro, AAS, Paramedic, EMS Field Representative [Mauro@snhd.org] Dustin Johnson, RN, EMS Field Representative [johnsondu@snhd.org]
+Rae Pettie, EMSTS Program/Project Coordinator [Pettie@snhd.org]
+Nicole Charlton, EMSTS Program/Project Coordinator [Charlton@snhd.org] Kristen Anderson, Senior Administrative Assistant [Andersonk@snhd.org]
+
+Hospitals:
+Boulder City Hospital: 901 Adams Blvd, Boulder City, NV 89005 (702) 293-4111
+Centennial Hills Hospital: 6900 N Durango Dr, Las Vegas, NV 89149 (702) 629-1210
+Henderson Hospital: 1050 Galleria Drive, Henderson, NV 89011 (702) 963-7000
+Mesa View Regional Hospital: 1299 Bertha Howe Ave, Mesquite, NV 89027 (702) 756-3408
+Mike O'Callaghan Federal Medical Center: 4700 N Las Vegas Blvd, Las Vegas, NV 89115 702) 653-3682 Mountain View Hospital: 3100 N Tenaya, Las Vegas, NV 89128 (702) 345-4270
+North Vista: 1409 E Lake Mead Blvd North, Las Vegas, NV 89030 (702) 657-5512 Southern Hills Hospital: 9300 W Sunset, Las Vegas, NV 89148 (702) 880-2800
+Spring Valley Hospital & Medical Center: 5400 S Rainbow, Las Vegas, NV 89118 (702) 853-3611 St Rose San Martin: 8280 W Warm Springs, Las Vegas, NV 89113 (702) 492-8600
+St Rose Siena: 3001 St Rose Pkwy, Henderson, NV 89052 (702) 616-5600
+Summerlin Hospital Medical Center: 657 N Town Center Dr, Las Vegas, NV 89144 (702) 233-7000 Sunrise Hospital & Medical Center: 3186 S Maryland Pkwy, Las Vegas, NV 89106 (702) 731-8000 University Medical Center: 1800 W Charleston Las Vegas, NV 89102 (702) 383-2211
+Valley Hospital Medical Center: 620 Shadow Ln, Las Vegas, NV 89106 (702) 388-4000
+West Henderson Hospital: 1155 Raiders Way Henderson, NV 89052 (725) 235-2100
+
+
+7
+
+TERMS AND CONVENTIONS
+
+AEDmeans Automated External DefibrillatorAMPLEmeans Allergies; Medications; Prior history; Last meal eaten; Events leading up to injury/illnessAMSmeans Altered Mental StatusASAmeans Acetylsalicylic AcidBGmeans Blood GlucoseBPmeans Blood PressureBVMmeans Bag-Valve-MaskCCCmeans Continuous Cardiac CompressionsCHFmeans Congestive Heart FailureCOPDmeans Chronic Obstructive Pulmonary DiseaseCPmeans Chest PainCPRmeans Cardiopulmonary ResuscitationCVAmeans Cerebrovascular AccidentDCAP-BTLSmeans Deformities; Contusions; Abrasions; Punctures/Penetrations; Burns; Tenderness; Lacerations; SwellingDKAmeans Diabetic KetoacidosisECGmeans ElectrocardiogramETAmeans Estimated Time of ArrivalETTmeans Endotracheal TubeGCSmeans Glasgow Coma ScaleGUmeans GenitourinaryHEENTmeans Head, Ears, Eyes, Nose, ThroatHPImeans History of Present IllnessHRmeans Heart RateICPmeans Intracranial PressureIMmeans IntramuscularINmeans IntranasalIOmeans IntraosseousIVmeans IntravenousIVPmeans Intravenous PushIVPBmeans Intravenous PiggybackJVDmeans Jugular Venous Distention
+8
+
+MADmeans Mucosal Atomizer DeviceMImeans Myocardial InfarctionMOImeans Mechanism of InjuryNRBmeans Non-rebreatherNSmeans Normal SalineNVmeans Nausea/VomitingOEMSTSmeans Office of Emergency Medical Services & Trauma SystemOPQRSTmeans Onset; Provokes; Quality; Radiates; Severity; Time (used in evaluating localized pain)PCImeans Percutaneous Coronary InterventionPCRmeans Patient Care Record/ReportPOmeans By MouthPRNmeans As Neededqmeans EveryROSCmeans Return of Spontaneous CirculationRRmeans Respiratory RateRUQmeans Right Upper QuadrantSAMPLEmeans Symptoms; Allergies; Medications; Prior history; Last meal eaten;Events leading up to injury/illnessSLmeans SublingualSOBmeans Shortness of BreathS/Pmeans Status/PostSQmeans SubcutaneousS/Smeans Signs/SymptomsSVTmeans Supraventricular TachycardiaTCAsmeans Tricyclic AntidepressantsTFTCmeans Trauma Field Triage CriteriaTIAmeans Transient Ischemic AttackTKO/KVOmeans To Keep Open/Keep Vein OpenVFmeans Ventricular FibrillationVTmeans Ventricular TachycardiaVSmeans Vital SignsWPWmeans Wolff-Parkinson-White Syndrome
+
+
+9
+
+
+
+
+
+
+ADULT
+TREATMENT PROTOCOLS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+
+
+
+
+
+Disposition
+* Patients sustaining traumatic injuries shall be transported in accordance with the Trauma Field Triage Criteria Protocol.
+* Patients sustaining burn injuries shall be transported in accordance with the Burns Protocol.
+* Pediatric patients (<18 y/o for transport purposes only) shall be transported in accordance with the Pediatric Destination Protocol.
+* Patients with evidence of a stroke shall be transported in accordance with the Stroke (CVA) Protocol.
+* Sexual assault victims <13 y/o shall be transported to Sunrise Hospital.
+* Sexual assault victims 13 y/o up to 18 y/o shall be transported to Sunrise Hospital or UMC.
+* Sexual assault victims 18 y/o and older shall be transported to UMC.
+* For sexual assault victims outside a 50-mile radius from the above facilities, the patient shall be transported to the nearest appropriate facility.
+* Stable patients shall be transported to the hospital of their choice, if the patient has no preference the patient should be transported to the closest facility.
+* For patients outside a 50 mile radius from protocol designated transport destinations, the licensee providing emergency medical care shall transport the patient to the nearest appropriate facility.
+
+Waiting Room Criteria
+Upon arrival in the emergency department, if transfer of care has not occurred in accordance with NRS 450B.790, any patient, excluding patients placed on a legal psychiatric hold, meeting ALL the following criteria may be placed in the hospital waiting room or other appropriate location:
+1. Normal vital signs
+A. Heart rate 60 - 100
+B. Respiratory rate 10 - 20
+C. Systolic BP 100 - 180
+D. Diastolic BP 60 - 110
+E. Room air pulse oximetry >94%
+F. Alert and oriented x 4
+2. Did not receive any parenteral medications during EMS transport except a single dose of analgesia and/or an antiemetic.
+3. In the judgment of the Paramedic, does not require continuous cardiac monitoring. Note: Any ECG monitoring initiated by a transferring facility may not be discontinued by EMS personnel.
+4. Can maintain a sitting position without adverse impact on their medical condition.
+5. Is left with a verbal report to hospital personnel.
+
+Internal Disaster
+* If a hospital declares an internal disaster, that facility is to be bypassed for all patients except patients in cardiac arrest or in whom the ability to adequately ventilate has not been established.
+* Operational exceptions may be initiated in regard to transport to hospitals on internal disaster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESecondary Survey
+
+
+
+
+
+General Adult Trauma Assessment Protocol (revised and MAB approved 4/7/2021)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Adult Trauma Assessment Protocol (revised and MAD approved 4/7/2021)
+
+
+
+
+
+
+
+
+
+
+
+
+Yes
+   
+Signs of hypovolemia?
+
+
+
+No
+
+
+
+
+Nausea or vomiting?
+
+
+
+
+No
+
+Yes
+
+
+
+DROPERIDOL
+1.25 mg IM/IV/IO
+or METOCLOPRAMIDE
+10 mg slow IVP over 1-2 minutes or IM
+or PROCHLORPERAZINE
+Up to 10 mg IV/IM/IO
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+No (Mild)
+
+AVascular Access
+
+
+ADIPHENHYDRAMINE
+50 mg IM/IV/IO/POReassess patient q 5 min
+Evidence of anaphylaxis?
+
+Yes (Moderate/Severe)
+
+
+EPINEPHRINEEAssist patient with own auto-injector
+AEPINEPHRINE
+1:1000, 0.5 mg IM;
+may repeat q 15 min
+up to max 1.5 mg
+
+ALBUTEROLEAssist patient with MDI
+
+AALBUTEROL 2.5 mg in 3 ml SVN,
+repeat as needed OR;
+LEVALBUTEROL 1.25 mg SVN,
+repeat as needed
+
+
+
+
+
+
+Pt in persistent shock? If Yes, then
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+BG <60 mg/dlEBlood glucose testingBG >60 mg/dlAVascular Access
+No
+
+
+
+
+
+
+
+
+
+Improved mental status?
+
+Consider the following:
+
+
+Yes
+StrokeShockSeizureGeneral TraumaAppropriate cardiac protocolPoisoning/Overdose
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Behavioral Emergency (revised and MAB approved 04/03/2024)
+
+History
+* Situational crisis
+* Psychiatric illness/medications
+* Injury to self or threats to others
+* Medic Alert tag
+* Substance abuse/overdose
+* Diabetes
+
+
+Pearls
+
+Signs and Symptoms
+* Anxiety, agitation, confusion
+* Affect change, hallucinations
+* Delusional thoughts, bizarre behavior
+* Combative, violent
+* Expression of suicidal/ homicidal thoughts
+
+Differential
+* AMS differential
+* Alcohol intoxication
+* Toxin/substance abuse
+* Medication effect or overdose
+* Withdrawal syndromes
+* Depression
+* Bipolar
+* Schizophrenia
+* Anxiety disorder
+
+* Pharmacological sedation is a medical procedure that results from a medical assessment. Sedation is never to be utilized to control behavior for the purpose of law enforcement initiatives or assistance.
+* Law enforcement assistance should be requested on all calls involving potentially violent patients.
+* Under no circumstances are patients to be transported restrained in the prone position.
+* Patients may not be transported with their arms restrained behind their back or in an ankle-to-wrist (hog-tied) manner.
+* The clinician should be ready to resuscitate the patient in case of inadvertent changes in respiratory or hemodynamic status. Patients should be continuously monitored with all available adjuncts when possible, including HR, ECG, RR, SpO2, BP, ETCO2, perfusion state, mental state.
+* Physical restraints, including gurney straps, should never restrict chest wall movement.
+* Patients expressing suicidal or homicidal ideation or who are otherwise a danger to themselves or others may not refuse transport. Contact law enforcement if necessary to initiate legal hold.
+* EMS providers are not to remove taser darts unless there is a need to do so to administer medical care. Dart removal is part of the education to use the device and is the responsibility of the person or agency who deploys the device.
+Dystonic Reaction
+* Condition causing involuntary muscle movements or spasms typically of the face, neck and upper extremities.
+* Typically an adverse reaction to drugs such as Haloperidol (may occur with administration).
+* When recognized, administer Diphenhydramine 50 mg IM/IV/IO.
+S.A.F.E.R.
+* Stabilize the situation by containing and lowering the stimuli.
+* Assess and acknowledge the crisis.
+* Facilitate the identification and activation of resources (chaplain, family, friends or police).
+* Encourage patient to use resources and take actions in his/her best interest.
+* Recovery or referral - leave patient in care of responsible person or professional, or transport to appropriate facility.
+Improved Montgomery County Richmond Agitation Sedation Scale (IMC-RASS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Persistent HR < 50 causing: Altered Mental Status
+NO	Hypotension Chest Pain Signs of Shock
+
+
+YES
+Stable with no high grade AV block or wide complexUnstable and/or high grade AV block and/or wide complex
+
+
+
+
+NO
+
+
+
+
+Bradycardia (Revised and MAB approved 4/3/2024)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bradycardia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+History
+* Type of exposure (heat, gas, chemical)
+* Inhalational injury
+* Time of injury
+* Past medical history & medications
+* Other trauma
+* Loss of consciousness
+* Tetanus/immunization status
+
+Pearls
+
+Signs and Symptoms
+* Burns, pain, swelling
+* Dizziness
+* Loss of consciousness
+* Hypotension/shock
+* Airway compromise/distress
+* Wheezing
+* Singed facial or nasal hair
+* Hoarseness or voice changes
+
+Differential
+* Superficial (1st degree) - red and painful
+* Partial Thickness (2nd degree) - blistering
+* Full Thickness (3rd degree) - painless/charred or leathery skin
+* Thermal
+* Chemical
+* Electrical
+* Radiation
+* Lightning
+
+* Burn patients are trauma patients; evaluate for multisystem trauma.
+* Assure whatever has caused the burn, is no longer contacting the injury. (Stop the burning process!)
+* Recommended Exam: Mental Status, HEENT, Neck, Heart, Lungs, Abdomen, Extremities, Back, Neuro.
+* Consider early intubation with patients experiencing significant inhalation injuries.
+* Potential CO exposure should be treated with 100% oxygen. (For patients in which the primary event is CO inhalation, transport to a hospital equipped with a hyperbaric chamber is indicated [when reasonably accessible].)
+* Circumferential burns to extremities are dangerous due to potential vascular compromise secondary to soft tissue swelling. Elevate extremity.
+* Burn patients are prone to hypothermia - never apply ice or cool
+burns; must maintain normal body temperature.
+* Consider ETCO2 monitoring.
+Early Intubation Indications
+* Signs of Airway Obstruction	• Burns in Mouth
+* Hoarseness, Stridor, Dysphagia	• Total BSA = 40%
+* Extensive Deep Facial Burns	• Altered Mentation
+* Signs of Respiratory Compromise	• Significant Risk of Edema
+-Accessory Muscle Use
+-Inability to Clear Secretions
+-Poor Oxygenation
+
+Patients meeting the following criteria shall be transported to the closest appropriate Burn Care Center:
+1. Second degree burns >10% body surface area (BSA).
+2. Any Third degree burns.
+3. Burns that involve the face, hands, feet, genitalia, perineum, or major joints.
+4. Electrical burns including lightning injury.
+5. Chemical burns.
+6. Circumferential burns.
+7. Inhalation burns.
+8. Burn injury with concomitant trauma
+
+
+
+Pearls (Electrical)
+* Do not contact the patient until you are certain the source of the electric shock has been disconnected.
+* Attempt to locate contact points, (entry wound where the AC source contacted the patient; an exit at the ground point); both sites will generally be full thickness.
+* Cardiac monitor; anticipate ventricular or atrial irregularity to include V-Tach, V-Fib, heart blocks, etc.
+* Attempt to identify the nature of the electrical source (AC vs DC), the amount of voltage and the amperage the patient may have been exposed to during the electrical shock.
+
+Pearls (Chemical)
+* Certainly 0.9% NaCl Sol'n or Sterile Water is preferred; however if it is not readily available, do not delay; use tap water for flushing the affected area or other immediate water sources. Flush the area as soon as possible with the cleanest, readily available water or saline solution using copious amounts of fluids.
+
+
+
+
+
+
+
+Yes
+
+Meets criteria for Prehospital Death Determination or DNR/POLST present?
+No
+
+
+
+
+EApply AED and defibrillate, if prompted
+EInsert NPA or OPA and begin BVM at 8 BPMPApply cardiac monitor
+Yes	Rhythm shockable?	No
+
+
+
+
+
+Rhythm shockable?
+Yes
+
+
+
+
+
+
+
+Rhythm shockable?
+
+No
+
+
+
+
+
+No
+Rhythm shockable?
+Yes
+
+
+
+No	Rhythm shockable?
+
+Yes
+
+
+Yes
+
+
+	
+
+
+
+  
+Pearls
+
+* Efforts should be directed at high quality and continuous compressions with limited interruptions and early defibrillation when indicated. Crews should consider using a "pit crew" approach with predefined roles and crew resource management principles.
+* Consider early IO placement if IV is difficult.
+* Ventilation rate should be 8-10 breaths per minute. Hyperventilation can worsen patient outcomes.
+* Continuous waveform capnography should be monitored throughout resuscitation for confirmation and monitoring of advanced airways (when present), as well as monitoring effectiveness of chest compressions.
+* Mechanical chest compression devices may be utilized if available. If utilized, the mechanical CPR device should be applied in a manner that minimizes interruptions in compressions, keeping breaks in CPR to less than 10 seconds. Use mechanical CPR devices per manufacturer's guidelines. Manual CPR must be initiated before the application of a CPR device. Ideally, complete 2 rounds of manual compressions before application.
+* If a patient is pregnant at or over 20 weeks estimated gestational age OR if the fundus is palpable above the umbilicus, apply the following interventions: During CPR, an additional rescuer should apply continuous manual leftward lateral displacement of the uterus to reduce pressure on the inferior vena cava and improve venous return. Vascular access should be obtained above the diaphragm. If no ROSC after two rounds of BLS/ACLS, consider immediate transport to the nearest Emergency Department for possible Resuscitative Cesarean Delivery (RCD).
+
+Left uterine displacement using 1-handed technique.	.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terry L. Vanden Hoek et al. Circulation. 2010;122:S829-S861
+
+
+Copyright (c) American Heart Association, Inc. All rights reserved.
+
+
+Terry L. Vanden Hoek et al. Circulation. 2010;122:S829-S861
+
+
+Copyright (c) American Heart Association, Inc. All rights reserved.
+
+
+
+
+
+
+
+Chest Pain (Non Traumatic) and Suspected
+Acute Coronary Syndrome
+
+
+
+
+Non- Diagnostic 12-Lead ECG
+
+
+STEMI
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chest Pain (Non Traumatic) and Suspected Acute Coronary Syndrome (Revised and MAB approved 12/7/2022)
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chest Pain (Non Traumatic) and Suspected Acute Coronary Syndrome (Revised and approved by MAB 12/7/2022)
+
+
+
+
+
+
+ERemove from environment Temperature measurement (if available)
+Remove wet clothing Dry/warm patient
+Passive warming measures
+
+Hypothermia/Frost Bite
+
+
+
+
+
+Respiratory distress?
+
+
+Yes
+
+
+
+No
+
+
+Yes
+
+
+Pulse present?
+
+
+
+No
+
+
+	
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+Active
+No	bleeding from
+the nose?
+
+
+Yes
+
+
+
+
+
+
+
+Active bleeding in posterior oropharynx?
+
+
+
+Yes
+
+
+Significant or
+No	Multi-System Trauma?
+
+
+
+
+
+
+
+
+Bleeding Controlled?
+
+
+
+No
+
+
+
+No	Yes
+E
+
+
+
+
+
+
+
+
+
+
+
+General Adult Assessment
+
+		
+
+
+
+
+
+
+
+
+ERemove from environment Temperature measurement (if available)
+Remove tight clothing Passive cooling measures
+
+Symptom Severity
+
+
+
+
+
+
+
+
+EActive cooling measures
+
+AVascular AccessNS or LR bolus 500 ml IV/IO;
+repeat to effect SBP >90; max 2000 mlPCardiac monitor
+Poor
+perfusion?
+
+
+
+Yes
+
+No	Exit to appropriate
+Shock or Trauma Protocol as indicated
+
+
+
+
+
+YES
+
+
+
+
+
+  Poor perfusion?
+
+
+
+
+
+NO
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCardiac monitor12-Lead ECG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hyperkalemia (Suspected) (revised and approved by MAB 12/6/2023)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hyperkalemia (Suspected)
+
+
+
+
+
+
+
+  
+
+
+APGARScore=0Score=1Score=2* Activity/Muscle ToneAbsentArms/legs flexedActive movement* PulseAbsentBelow 100Above 100* Grimace/Reflex IrritabilityNo responseGrimaceSneeze, cough, pulls away* Appearance/Skin ColorBlue-Grey, pale all overNormal, except extremitiesNormal over entire body* RespirationAbsentSlow, irregularGood, crying
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OB - Pre-eclampsia/Eclampsia (Approved by MAB 09/03/2025)
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OB-Pre-eclampsia/Eclampsia (Approved by MAB 09/03/2025)
+
+
+
+
+
+
+		
+
+
+
+
+APGARScore=0Score=1Score=2* Activity/Muscle ToneAbsentArms/legs flexedActive movement* PulseAbsentBelow 100Above 100* Grimace/Reflex IrritabilityNo responseGrimaceSneeze, cough, pulls away* Appearance/Skin ColorBlue-Grey, pale all overNormal, except extremitiesNormal over entire body* RespirationAbsentSlow, irregularGood, crying
+
+
+
+
+
+
+
+
+
+E
+Ventilation ManagementAP
+AConsider Vascular AccessPCardiac Monitor
+
+
+
+Consider potential cause of signs/symptoms
+
+
+
+
+NALOXONE
+E		2-4 mg Intranasal
+NALOXONE
+0.4 mg -2 mg IN/IM/IV/IO
+titrated to an
+
+
+
+DIPHENHYDRAMINE
+50 mg IV/IM/IO
+
+
+
+Wide QRS
+
+
+Bradycardic and hypotensive
+
+
+Bradycardic and hypotensive
+
+
+ATROPINE
+2 mg IV/IO q 15 min as needed to decrease secretions and ventilatory resistance
+
+increase in respiratory effort. May repeat to a max dose of 10 mg
+
+SODIUM BICARBONATE
+50 mEq IV/IO. May repeat
+P	X1 in 3-5 min if
+QRS remains wide
+ 
+CALCIUM CHLORIDE 1 gm (10%)
+slow IV/IO
+
+
+
+HYDROXOCOBALAMIN
+P 5 g IV/IO over 15 min if
+available
+
+
+GLUCAGON
+P	1 mg IM/IV/IO;
+may repeat once in 3-5 min
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+   Mild to Moderate Pain
+
+Severe Pain (select one)
+
+
+
+
+FENTANYL 1
+mcg/kg IN/IM/ IV/IO; max single dose 100 mcg May
+P	repeat dose after 10 minutes
+
+MORPHINE
+ 0.1 mg/kg IM/ IV/IO; max single
+dose 10 mg
+   May repeat dose P	after 10 min
+  
+HYDRO- MORPHONE
+0.01 mg/kg IM/IV/IO;
+max single
+P		dose 1mg May repeat dose after 10
+minutes
+
+KETAMINE
+0.2 mg/kg IM/ IN/IV/IO
+No Repeat Dose
+
+P	***NOT TO BE
+USED FOR CHEST PAIN/ SUSPECTED ACS or STEMI
+protocols***
+
+
+
+
+
+Persistent pain, or contraindication to acetaminophen
+
+
+Persistent Pain?
+
+
+
+
+
+	 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EOxygen Keep SpO2 >94%AVascular AccessPETCO2 monitoring
+
+
+
+
+P12-Lead ECGEBP re-assessment
+
+Hypotensive
+SBP <100 mm Hg
+
+Normotensive
+SBP >100 mm Hg
+
+Hypertensive
+DBP >100 mm Hg
+
+
+
+
+
+	
+
+
+
+
+Pulmonary Edema/CHF (Revised and MAB approved 06/5/2024)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pulmonary Edema/CHF (Revised and approved by MAB 6/5/2024)
+
+
+
+
+
+
+No	Airway & ventilation
+adequate?
+
+
+Yes
+
+
+
+
+
+
+
+
+Bilateral Rales or Signs of Pulmonary Edema
+ 
+Wheezing or Bronchospasm
+
+Stridor
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Respiratory Distress Protocol (Revised and Approved by MAB 4/5/2023)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Respiratory Distress
+
+
+
+
+
+
+
+Yes
+
+Patient actively	No
+seizing?
+
+
+
+
+
+Patient have a history of seizures?
+
+Is Patient =20 weeks
+No	pregnant or =6 weeks post partum
+
+
+Yes
+
+
+
+
+
+Yes
+
+
+
+
+
+No
+
+
+
+
+No	BG <60 mg/dl?
+
+Yes
+
+
+
+
+
+
+
+
+
+
+
+
+Yes
+
+
+
+
+EReassess and monitor VSBlood glucose testing
+BG <60 mg/dl?
+
+
+
+No
+
+Persistent (status)
+or recurrent	No seizure?
+
+Yes
+
+
+
+
+
+
+
+
+
+
+
+
+Seizure (revised and approved by MAB 10/06/2021)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seizure
+
+
+
+
+
+
+EOxygen Keep SpO2 >94%AVascular AccessPCardiac Monitoring/Capnography
+
+SBP <90 mm Hg HR >90/min
+Respiratory rate >20 Altered mental status
+Temperature > or = 100.4 F or < or = 96.8 F Persistent ETCO2 <25 on waveform capnography
+YES
+
+
+
+ANS or LR bolus 500 ml IV/IO, reassess criteria and re-examine. May repeat x3
+for SBP <90, with no rales on lung exam. Max dose 2000 ml.
+
+
+PIf SBP <90 after 2000 ml IV fluids PUSH DOSE EPINEPHRINE 1:100,000
+10 mcg IV/IO, may repeat q 2-5 min to maintain SBP >90 (1 ml of a 1:100,000 solution)
+ORPUSH DOSE PHENYLEPHRINE
+100 mcg - 200 mcg IV/IO, may repeat q 2-5 min to maintain SBP >90
+(1 ml - 2 ml of a 100 mcg/ml solution)
+
+
+
+
+
+Sepsis (revised and MAB approved 12/6/2023)
+
+  
+
+
+
+
+
+
+Sepsis (revised and MAB approved 6/1/2022)
+
+
+
+
+
+
+EOxygen Keep SpO2 >94%AVascular AccessPCardiac monitor/capnography
+
+
+
+
+
+
+Trauma -
+related
+
+Non-trauma, Non- cardiogenic
+
+
+Cardiogenic
+
+
+
+
+
+
+
+
+P12-Lead ECGObtain waveform
+capnography
+
+
+
+
+
+
+  
+
+Pearls
+* Recommended exam: Mental Status, Skin, Heart, Lungs, Abdomen, Back, Extremities, Neuro.
+* Hypotension can be defined as a systolic BP of <90. This is not always reliable and should be interpreted in context and patient's typical BP, if known. Shock may present with a normal BP initially.
+* Hypovolemia or distributive shock should be addressed with a fluid bolus prior to the administration of push-dose pressors.
+* While there are no absolute contraindications to epinephrine, it should be used with caution in elderly patients, patients with known cardiovascular disease, or significant tachycardia or hypertension, and should be administered only when the patient's signs and symptoms are severe.
+* Shock often is present with normal vital signs and may develop insidiously. Tachycardia
+may be the only manifestation.
+* Consider all possible causes of shock and treat per appropriate protocol.
+* An ETCO2 measurement of <25 mm Hg is indicative of shock
+
+Hypovolemic shock
+* Hemorrhage, trauma, GI bleeding, ruptured aortic aneurysm, or pregnancy related bleeding
+Cardiogenic shock
+* Heart failure, MI, cardiomyopathy, myocardial contusion, toxins
+Distributive shock
+* Sepsis (consider telemetry of code sepsis to receiving facility), anaphylaxis, neurogenic,
+toxins
+Obstructive shock
+* Pericardial tamponade, pulmonary embolus, tension pneumothorax
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smoke Inhalation (Revised and MAB approved 4/7/2021)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Smoke Inhalation(revised and MAB approved 4/7/2021)
+
+
+
+
+
+
+
+
+
+
+
+NITROGLYCERIN
+
+
+
+
+
+
+
+METOCLOPRAMIDE
+10 mg slow IV bolus over 1-2 minutes or IM or PROCHLORPERAZINE
+Up to 10 mg IV/IM/IO
+
+
+
+STEMI (Suspected) (Revised and approved by MAB 06/1/2022)
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STEMI (SUSPECTED) (Revised and approved by MAB 6/1/2022)
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDocument:
+1. Last known normal (onset)
+2. Witness with phone numberPerform and document RACE
+Stroke Scale Results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+History
+* Previous CVA, TIAs
+* Previous cardiac/vascular surgery
+* Associated diseases: diabetes, HTN
+* CAD
+* Atrial Fibrillation
+* Medications
+* History of trauma
+
+Signs and Symptoms
+* AMS
+* Weakness, paralysis
+* Blindness or other sensory loss
+* Aphasia, dysarthria
+* Syncope
+* Vertigo, dizziness
+* Vomiting
+* Headache
+* Seizures
+* Respiratory pattern change
+* Hypertension, hypotension
+
+Differential
+* AMS
+* TIA
+Seizure
+* Hypoglycemia
+* Tumor
+* Trauma
+* Dialysis/ Renal Failure
+
+
+Pearls
+* Recommended exam: Mental Status, HEENT, Heart, Lungs, Abdomen, Extremities, Neuro.
+* Determine time of onset of symptoms or last time patient was seen normal
+* Transport to an appropriate Stroke Center or Endovascular Treatment Center
+
+
+Stroke Centers
+* Centennial Hills
+* Henderson
+* MountainView
+* Southern Hills
+* Spring Valley
+* St Rose Siena
+* St Rose San Martin
+* Summerlin
+* Sunrise
+* UMC
+* Valley
+* West Henderson Hospital
+
+NIR Capable Centers
+* Centennial Hills
+* Henderson Hospital
+* Southern Hills Hospital
+* Spring Valley
+* St Rose Siena
+* Sunrise
+* UMC
+* Valley
+
+QI Metrics
+* Complete the RACE assessment in less than five minutes
+* Time of symptom onset documented
+* Blood glucose documented
+* 12-Lead EKG completed
+* Scene time <10 minutes
+* Telemetry to receiving facility
+
+
+
+
+
+
+
+
+
+
+
+Successful?	Successful?
+Yes
+
+
+
+
+
+Successful?	Successful?
+
+
+
+No	No
+
+
+Successful?
+
+
+No
+
+
+
+
+Yes
+
+Successful?
+
+
+No
+
+
+ 	
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tachycardia / Stable
+
+
+
+	 
+
+
+
+
+Rhythm change?
+
+
+No
+
+Yes	
+
+
+Rhythm change?
+
+
+
+Yes
+
+
+Rhythm change?
+
+No	No
+
+
+
+
+
+Rhythm change?
+
+
+
+Yes
+
+Rhythm
+change?
+
+No
+
+
+Yes
+
+Rhythm
+change?
+
+No
+
+
+
+No
+
+
+
+
+
+Rhythm change?
+
+
+Yes
+
+Rhythm change?
+
+
+
+
+Rhythm change?
+
+Yes
+
+
+
+No	No
+
+
+No
+
+
+  
+
+
+
+
+
+
+
+
+
+Intervention
+No	effective?
+
+
+Yes
+
+
+Obtain Vascular Access
+
+For Nasotracheal Intubation Prep the Nostrils With
+PHENYLEPHRINE 1-2 Sprays Each
+Or
+OXYMETAZOLINE 1-2 sprays each nostril and LIDOCAINE 2% Lubricant
+Consider Induction Administer ETOMIDATE 0.3 mg/kg IV/IO, max dose 30 mg OR;
+KETAMINE 2 mg/kg IV/IO Or 4 mg/kg IM OR;
+MIDAZOLAM 0.1 mg/kg IN/IV/IO/IM max single dose 10 mg. Repeat dose with Physician Order
+
+
+
+
+  Extraglottic/ETT placement successful?
+
+Yes
+
+
+
+No
+Able to ventilate without extraglottic/ ETT in place?
+No
+
+
+
+Yes
+
+
+
+
+
+Continue Care and Transport as Appropriate
+
+
+
+
+Always weigh the risks and benefits of endotracheal intubation in the field against transport. All prehospital endotracheal intubations are considered high risk. If ventilation/oxygenation is adequate, transport may be the best option. The most important airway device and the most difficult to use correctly and effectively is the Bag Valve Mask (not the laryngoscope). Few prehospital airway emergencies cannot be temporized or managed with proper BVM techniques.
+
+DIFFICULT AIRWAY ASSESSMENT:
+
+Difficult BVM Ventilation-MOANS: Difficult Mask seal due to facial hair, anatomy, blood or secretions/trauma; Obese or late pregnancy; Age >55; No teeth (roll gauze and place between gums and cheeks to improve seal); Stiff or increased airway pressures (asthma, COPD, obese, pregnant).
+
+Difficult Laryngoscopy-LEMON: Look externally for anatomical distortions (small mandible, short neck, large tongue); Evaluate 3-3-2 Rule (Mouth open should accommodate 3 patient fingers, mandible to neck junction should accommodate 3 patient fingers, chin-neck junction to thyroid prominence should accommodate 2 patient fingers); Mallampati (difficult to assess in the field); Obstruction / Obese or late pregnancy; Neck mobility.
+
+Difficult Extraglottic Device Placement-RODS: Restricted mouth opening; Obstruction / Obese or late pregnancy;
+Distorted or disrupted airway; Stiff or increased airway pressures (asthma, COPD, obese, pregnant).
+
+Nasotracheal intubation: Orotracheal intubation is the preferred choice. Procedure requires patient to have spontaneous breathing. Contraindicated in anatomically disrupted or distorted airways, increased intracranial pressure, severe facial trauma, basal skull fracture, head injury.
+
+
+Pearls
+* Consider preoxygenation/lung denitrogenation with a non-rebreather, a nasal cannula at 15 LPM, or NIPPV prior to intubation (as patient condition allows).
+* Severe hypotension (SBP<90) should be addressed with IV fluids and/or pressors (as appropriate) prior to intubation in order to reduce the likelihood of post-intubation cardiovascular decline.
+* Capnometry (Color) or capnography is mandatory with all methods of intubation. Document results.
+* Continuous capnography (ETCO2) is mandatory for the monitoring of all patients with an ET tube.
+* If an effective airway is being maintained by BVM and/or basic airway adjuncts (e.g. nasopharyngeal airway) with continuous pulse oximetry values of =90% or values expected based on pathophysiologic condition
+with otherwise reassuring vital signs (e.g. pulse oximetry of 85% with otherwise normal vitals in a post-drowning patient), it is acceptable to continue with basic airway measures instead of using an extraglottic airway device or intubation. Consider NIPPV as indicated by protocol and patient condition.
+* For the purposes of this protocol, a secure airway is achieved when the patient is receiving appropriate oxygenation and ventilation.
+* An intubation attempt is defined as passing the laryngoscope blade or endotracheal tube past the teeth or inserted into the nasal passage.
+* An appropriate ventilatory rate is one that maintains an ETCO2 of 35 - 45. Avoid hyperventilation.
+* Paramedics should use an extraglottic airway device if oral-tracheal intubation is unsuccessful.
+* Maintain C-spine stabilization for patients with suspected spinal injury.
+* Gastric tube placement should be considered in all intubated patients, if time allows.
+* It is important to secure the endotracheal tube well.
+
+
+
+
+
+
+
+
+
+
+PEDIATRIC
+TREATMENT PROTOCOLS
+
+
+
+(for patients under 12 years of age)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unresponsive
+
+None or <60
+
+
+Cardiac Arrest
+
+Signs of compromise or not protecting
+
+Inadequate or respiratory distress
+
+    Bleeding Altered or confused
+
+Ventilation Management Respiratory Distress Hemorrhage Control
+Altered Mental Status/ Syncope
+
+
+
+
+
+
+
+
+
+
+Disposition
+* Patients sustaining traumatic injuries shall be transported in accordance with the Trauma Field Triage Criteria Protocol.
+* Patients sustaining burn injuries shall be transported in accordance with the Burns Protocol.
+* Pediatric patients (<18 y/o for transport purposes only) shall be transported in accordance with the Pediatric Destination Protocol.
+* Patients with evidence of a stroke shall be transported in accordance with the Stroke Protocol.
+* Sexual assault victims <13 y/o shall be transported to Sunrise Hospital.
+* Sexual assault victims 13 y/o up to 18 y/o shall be transported to Sunrise Hospital or UMC.
+* Sexual assault victims 18 y/o and older shall be transported to UMC.
+* For sexual assault victims outside a 50-mile radius from the above facilities, the patient shall be transported to the nearest appropriate facility.
+* Stable patients shall be transported to the hospital of their choice; if the patient has no preference, the patient should be transported to the closest facility.
+
+Internal Disaster
+* If a hospital declares an internal disaster, that facility is to be bypassed for all patients except patients in cardiac arrest, or in whom the ability to adequately ventilate has not been established.
+* Operational exceptions may be initiated in regard to transport to hospitals on internal disaster.
+
+
+
+
+
+
+
+GCS <8
+
+Glasgow Coma Score
+
+GCS >8
+
+
+
+
+	
+
+
+
+No	Palpable
+radial pulse?
+
+Yes
+
+
+
+
+	
+
+
+
+
+
+Suspected tension pneumothoraxSucking chest woundControl active hemorrhageObvious fracturesSuspected traumatic brain injuryOpen wounds
+
+
+
+
+
+General Pediatric Trauma Assessment Protocol (revised and MAB approved 4/7/2021)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Pediatric Trauma Assessment(revised and MAB approved 4/7/2021)
+
+
+
+
+
+
+
+
+
+
+
+Yes
+
+Hypovolemia or witnessed vomiting?	No
+
+
+
+
+
+
+
+
+
+
+Yes
+
+
+
+
+
+
+
+
+Subjective nausea or vomiting?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pediatric Abdominal Pain, Nausea & Vomiting (Revised and MAB approved 6/1/2022)
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pediatric Abdominal Pain, Nausea & Vomiting (revised and MAB approved 6/1/2022)
+
+
+
+
+
+
+
+
+
+
+EPINEPHRINEEAssist patient with own auto-injector
+
+AEPINEPHRINE 1:1000,
+    0.01 mg/kg IM; max single dose 0.5 mg;
+may repeat q 5 min
+up to max 1.5 mg
+ALBUTEROLEAssist patient with MDIA2.5 mg in 3 ml SVN; repeat as needed
+A           OR LEVALBUTEROL 1.25 mg SVN;
+repeat as needed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+BG <60 mg/dlEBlood glucose testingBG >60 mg/dlBG <40 mg/dl inA  Vascular Accessnewborn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+Threatened or acted in a way that suggests threat to self or others
+
+Yes	No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bradycardia causing hypotension,
+No	altered mental
+status, poor perfusion or shock?
+
+
+
+
+
+
+
+
+Yes
+
+
+
+
+Yes
+
+
+
+
+E A P
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HR <60
+bpm?
+
+
+
+No
+
+ECPR
+
+P      EPINEPHRINE 1:10,000 0.01 mg/kg IV/IO
+1:1000 0.1 mg/kg via ETT (max 1 mg); repeat
+q 3-5 min
+
+PATROPINE
+0.02 mg/kg IV/IO (min dose 0.1 mg; max 0.5 mg)
+may repeat once after 5 min
+
+Pulseless
+
+  
+
+
+
+
+
+
+
+
+Thermal Exposure	Chemical/Electrical Exposure
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+
+
+
+
+
+
+Cardiac monitor
+
+
+
+
+Consider Smoke Inhalation
+
+
+
+
+Pediatric Burns (Revised and MAB approved 4/7/2021)
+
+History
+* Type of exposure (heat, gas, chemical)
+* Inhalational injury
+* Time of injury
+* Past medical history & medications
+* Other trauma
+* Loss of consciousness
+* Tetanus/immunization status
+
+Signs and Symptoms
+* Burns, pain, swelling
+* Dizziness
+* Loss of consciousness
+* Hypotension/shock
+* Airway compromise/distress
+* Wheezing
+* Singed facial or nasal hair
+* Hoarseness or voice changes
+
+Differential
+* Superficial (1st degree) - red and painful
+* Partial Thickness (2nd degree) - blistering
+* Full Thickness (3rd degree) - painless/charred or leathery skin
+* Thermal
+* Chemical
+* Electrical
+* Radiation
+* Lightning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pearls (Electrical)
+* Do not contact the patient until you are certain the source of the electric shock has been disconnected.
+* Attempt to locate contact points, (entry wound where the AC source contacted the patient; an exit at the ground point); both sites will generally be full thickness.
+* Cardiac monitor; anticipate ventricular or atrial irregularity to include V-Tach, V-Fib, heart blocks, etc.
+* Attempt to identify the nature of the electrical source (AC vs DC), the amount of voltage and the amperage the patient may have been exposed to during the electrical shock.
+
+
+Pearls (Chemical)
+* Certainly 0.9% NaCl Sol'n or Sterile Water is preferred; however if it is not readily available, do not delay; use tap water for flushing the affected area or other immediate water sources. Flush the area as soon as possible with the cleanest, readily available water or saline solution using copious amounts of fluids.
+
+
+Pediatric Burns (Revised and MAB approved 4/7/2021)
+87
+
+
+
+
+
+
+YES
+
+Meets Criteria for Prehospital Death Determination or DNR/POLST present?
+NO
+
+
+EARLY VENTILATION IS RECOMMENDEDBegin Age Appropriate CPR
+Push Hard (1.5 Inches Infant 2 Inches in Children) Push Fast (100-120/min)EApply AED and Defib if PromptedEPApply Cardiac MonitorP
+
+ 
+ 
+
+
+
+
+
+Rhythm Shockable?
+
+YES
+
+YES
+
+Rhythm Shockable?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NO
+
+NO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rhythm Shockable?
+
+NO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YES
+
+
+
+Rhythm Shockable?
+
+NO	NO
+
+Rhythm Shockable?
+
+
+YES
+YES
+
+
+
+Pediatric Cardiac Arrest Non-Traumatic(updated and approved by MAB 04/3/2024)
+
+  
+
+
+Pearls
+* Respiratory failure resulting in cardiac arrest should be addressed as it is identified.
+* Efforts should be directed at high quality chest compressions with limited interruptions and early defibrillation when indicated.
+* Consider early IO placement if IV is difficult.
+* DO NOT HYPERVENTILATE.
+* Once an advanced airway is in place, compressions should be continuous with ventilations every three seconds.
+* Reassess and document ETT placement using auscultation and ETCO2 capnography.
+* Switch compressors every two minutes.
+* Try to maintain patient modesty.
+* Mechanical chest compression devices should be used if available and appropriate for patient age/size in order to provide for consistent uninterrupted chest compressions and crew safety.
+* Adult paddles/pads may be used on children weighing greater than 10 kg.
+* Pre-assignment of pit crew roles is recommended. When this is not possible, tasks may be assigned by order of arrival: 1st: Airway; 2nd: Compressions; 3rd: IV/IO access, medication administration; 4th: Measure, Monitor/AED placement; 5th: family liaison/history gathering
+* Pre-plan drug dosing based on weight estimations while en route and verify with a height based tape once reaching the patient
+* Proper BVM selection: <5 kg = infant BVM. 5-30 kg = pediatric BVM. >30 kg = adult BVM.
+H's & T's (reversible causes)
+* Hypovolemia - Volume infusion
+* Hypoxia - Oxygenation & ventilation, CPR
+* Hydrogen ion (acidosis) - Ventilation, CPR
+* Hyperkalemia - Calcium Chloride, Glucose, Sodium Bicarbonate, Albuterol
+* Hypokalemia
+* Hypothermia - Warming
+* Hypoglycemia - Glucose
+* Tension pneumothorax - Needle decompression
+* Tamponade, cardiac - Volume infusion
+* Toxins - Agent specific antidote
+* Thrombosis, pulmonary - Volume infusion
+* Thrombosis, coronary - Emergent PCI
+
+
+
+
+
+
+
+
+
+Pediatric Cardiac Arrest (Non-Traumatic)(revised and approved by MAB 4/3/2024)
+
+
+
+
+
+
+
+ERemove from environment Temperature measurement (if available)
+Remove wet clothing Dry/warm patient
+Passive warming measures
+
+Hypothermia/Frost Bite
+
+
+
+
+
+Respiratory distress?
+
+
+Yes
+
+
+
+No
+
+
+Yes
+
+
+Pulse present?
+
+
+
+No
+
+
+	
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+Active
+No	bleeding from
+the nose?
+
+
+Yes
+
+
+
+
+
+
+
+Active bleeding in posterior oropharynx?
+
+
+
+Yes
+
+
+Significant or
+No	Multi-System Trauma?
+
+
+
+
+
+
+
+
+Bleeding
+Controlled?
+
+
+
+
+Yes
+
+
+
+No	Yes
+
+
+
+No
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+ERemove from environment Temperature measurement (if available)
+Remove tight clothing Passive cooling measures
+
+Symptom Severity
+
+
+
+
+
+
+
+
+EActive cooling measures
+
+AVascular Access  NS or LR bolus 20 ml/kg IV/IO; repeat to effect age appropriate SBP =70 + 2 x Age;
+max 60 mL/kgPCardiac monitor
+Poor perfusion?
+
+Yes
+
+
+No	Exit to appropriate
+Shock or Trauma
+Protocol as indicated
+
+
+Yes
+
+
+Poor perfusion?
+
+
+
+
+
+No
+
+
+
+  
+
+
+
+
+
+
+
+
+
+Breathing or crying? Good muscle tone?
+
+
+Yes
+
+
+
+No
+
+
+No
+
+
+
+
+
+HR <100, gasping, or apnea?
+
+Yes
+
+No	Labored breathing or persistent cyanosis?
+
+
+
+
+Yes
+
+
+
+
+
+
+
+HR <100?	No
+
+Yes
+
+No
+
+HR <60?
+
+Yes
+
+CPR 3:1 ratioAVascular Access
+HR <60?	No
+
+Yes
+
+
+Neonatal Resuscitation (revised and approved by MAB 09/03/2025)
+96
+
+  
+
+
+
+
+
+
+
+Neonatal Resuscitation (revised and approved by MAB 09/03/2025)
+
+
+
+
+
+
+
+
+E
+Pediatric Ventilation ManagementAP
+
+AConsider Vascular AccessPCardiac monitor
+Consider potential cause of signs/symptoms
+
+
+
+
+
+
+
+
+NALOXONE
+ 0.1 mg/kg IN/IV/IM/IO
+titrated to increase in respiratory effort. May repeat to a max dose of 10 mg
+
+
+Wide QRS
+
+Bradycardic and Hypotensive
+
+Bradycardic and Hypotensive
+
+
+ 	
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+EACETAMINOPHEN
+       PO Route Only Reference Dosing Chart in Pearls
+Max single dose 1 g
+AACETAMINOPHEN
+15 mg/kg IV/IO Maximum single dose 1 g
+Slow IVP over 2 min
+
+
+
+
+
+
+
+PFENTANYL 1 mcg/kg IN/IM/IV/IO; maximum single dose 100 mcg
+Additional FENTANYL doses require a physician order
+
+
+
+
+
+
+AONDANSETRON
+0.15 mg/kg ODT/IM/IV/IO
+Up to max dose 4 mg (round up to nearest
+half pill)
+PIF 8 years of age or older METOCLOPRAMIDE 5 mg slow IV/IO bolus over 1-2 minutes or IM
+  
+
+
+
+
+
+
+
+
+
+
+
+
+No	Airway & ventilation adequate?
+
+
+
+
+
+Yes	Yes
+
+
+
+ Wheezing or Bronchospasm
+
+
+Stridor
+
+
+
+
+
+EALBUTEROL
+assist patient w/own MDI
+
+AALBUTEROL
+    2.5 mg in 3 ml SVN; repeat until improvement OR;
+LEVALBUTEROL
+  1.25 mg in 3 ml SVN; repeat until improvement
+
+PPT >2 y/o with history of wheezing IPRATROPIUM
+2.5 ml 0.02% solution SVN once; or
+DuoNeb 3 ml SVN once
+
+
+
+Pediatric Respiratory Distress (revised and approved by MAB 4/5/2023)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pediatric Respiratory Distress
+
+
+
+
+
+
+Patient febrile?	Yes
+
+
+
+
+Yes
+
+No
+
+Patient actively
+seizing?	No
+
+
+
+Patient have a history of seizures?
+
+Yes
+
+
+No
+
+
+
+
+
+No	BG <60 mg/dl?
+
+
+Yes
+
+
+
+
+A
+D10, 5 ml/kg IV/IO max single dose 25 gGLUCAGON 0.5 mg IM for
+no IV accessPersistent (status) or recurrent seizure?
+Yes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yes
+
+
+
+
+
+
+No
+
+
+
+
+
+
+EReassess and monitor VSBlood glucose testing
+BG <60 mg/dl?
+
+
+
+
+
+
+
+EReassess and monitor VS
+
+EBlood glucose testing
+
+
+
+
+
+
+
+
+Continue General Pediatric AssessmentVentilation ManagementAVascular Access
+
+
+
+PCardiac monitorMIDAZOLAM 0.05 mg/kg, IN/ IM/IV/IO;
+max dose 2.5 mg; Further doses with Physician Order OR
+DIAZEPAM 0.1 mg/kg IM/IV/PR/IO;
+max dose 5 mgPediatric Seizure
+104
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pediatric Seizure
+
+
+
+
+
+
+EOxygen 15 L NRBAVascular AccessPCardiac monitor/Capnography
+
+
+
+
+
+
+Trauma - related
+
+Non-Trauma related
+
+
+
+
+
+	
+
+
+BG <60 mg/dl
+BG <40 mg/dl in newborn
+
+
+
+BG normal
+
+
+BG >250 mg/dl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pediatric Shock (Revised and MAB approved 12/6/2023)
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AVascular AccessNS or LR bolus, 20 ml/kg IV/IO up to 60 ml/kg for hypoperfusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pediatric Smoke Inhalation (Revised and MAB approved 4/7/2021)
+
+  
+
+
+
+
+
+
+
+
+
+Pediatric Smoke Inhalation (revised and MAB approved 4/7/2021)
+
+
+
+
+
+
+
+
+
+
+
+	 	
+
+Successful?
+
+
+No
+
+
+MAGNESIUM
+SULFATE 25 mg/kg IV/IO in 50 ml NS over 10 min
+
+
+
+
+
+
+Successful?
+
+
+Successful?	No
+
+Synchronized
+No	Cardioversion
+start at 0.5 to 1 J/kg;
+ may use 2 J/kg if unsuccessful; Consider sedation
+ETOMIDATE
+0.15 mg/kg IV/IO
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rhythm change?
+
+
+No
+
+
+Rhythm change?
+
+NO
+
+
+
+Yes
+
+
+
+
+Yes
+
+
+
+
+
+
+Rhythm change?
+
+No
+
+
+
+
+
+Rhythm change?
+
+
+Yes
+
+Rhythm change?
+
+
+Yes
+
+Rhythm change?
+
+
+No
+
+
+
+
+
+
+No	No
+
+
+
+Yes
+
+Rhythm
+change?
+
+
+No
+
+
+	 
+
+
+
+
+
+
+Intervention
+No	effective?
+
+
+Yes
+
+
+
+		
+ 
+Induction Administer ETOMIDATE 0.3 mg/kg IV/IO max dose 20 mg. OR; KETAMINE 2 mg/kg IV/IO max 200 mg or 4 mg/kg IM max 400 mg. OR;
+MIDAZOLAM 0.1 mg/kg IN/IM/IV/IO titrated to effect, max single dose 5 mg. Repeat doses with physician order.
+
+
+
+YES
+Extraglottic/ETT
+placement successful?
+
+NO
+
+
+Able to ventilate without extraglottic/ ETT in place?
+NO
+
+YES
+
+
+ 
+
+Pearls
+* Consider preoxygenation/lung denitrogenation with a non-rebreather or a nasal cannula at 15 LPM prior to intubation (as patient condition allows)
+* Severe hypotension (SBP 70+(2 X age)) should be addressed with IV fluids and/or pressors (as appropriate) prior to intubation in order to reduce likelihood of post-intubation cardiovascular decline.
+* Capnometry (Color) or capnography is mandatory with all methods of intubation. Document results.
+* Continuous capnography (ETCO2) is mandatory for the monitoring of all patients with an ET tube.
+* If an effective airway is being maintained by BVM and/or basic airway adjuncts (e.g. nasopharyngeal airway) with continuous pulse oximetry values of =90%, or values expected based on pathophysiologic condition
+with otherwise reassuring vital signs (e.g. pulse oximetry of 85% with otherwise normal vitals in a post drowning patient), it is acceptable to continue with basic airway measures instead of using an extraglottic airway device or intubation.
+* For the purposes of this protocol, a secure airway is achieved when the patient is receiving appropriate oxygenation and ventilation.
+* An Intubation Attempt is defined as passing the laryngoscope blade or endotracheal tube past the teeth or
+inserted into the nasal passage.
+* An appropriate ventilatory rate is one that maintains an ETCO2 of 35 - 45. Avoid hyperventilation.
+* Paramedics should use an extraglottic airway device if oral-tracheal intubation is unsuccessful.
+* Maintain C-spine stabilization for patients with suspected spinal injury.
+* Gastric tube placement should be considered in all intubated patients if time allows.
+* It is important to secure the endotracheal tube well.
+
+
+
+
+
+
+
+
+OPERATIONS PROTOCOLS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+116
+
+Communications
+
+Telemetry contact should be established by radio.
+Telephone contact may only be used if the call is recorded via a phone patch through the FAO at 702-382-9007.
+
+1. Telemetry contact shall be established:
+A. For all time sensitive or life threatening condition transports.
+B. For any medical emergency in which the EMS provider's judgment suggests consultation with a telemetry physician is necessary.
+C. For all trauma patients going to a trauma center.
+D. When telemetry contact is required per protocol.
+2. For patients who meet Trauma Field Triage Criteria, telemetry reports shall include:
+A. ETA
+B. Patient age
+C. Gender
+D. Mechanism of injury
+E. Ambulatory at scene
+F. Suspected injuries
+G. Vital signs
+H. Airway status
+I. Neurologic status
+J. An incident identifier if multiple patients are involved (e.g. fire department command code "Main Street Command")
+3. Notify/meet with the receiving facility prior to transfer of care with suspected need for Contact Isolation Preparation
+A. State the general type of agent involved (insect, chemical, biological, radiation, nuclear, explosive)
+B. State the type of agent if known.
+C. If unknown state the general type with patient symptoms. Example - "Unknown chemical substance causing respiratory distress with secretions.
+4. For all other patients, telemetry reports shall include, at a minimum:
+A. Attendant/vehicle identification
+B. Nature of call: INFORMATION ONLY or REQUEST FOR PHYSICIAN ORDERS
+C. Patient information (i.e. number, age, sex)
+D. Patient condition (i.e. stable, full arrest)
+E. History
+1) Basic problem or chief complaint
+2) Pertinent associated symptoms
+3) Time since onset
+4) Past history, if pertinent
+F. Objective findings
+1) General status of patient
+2) Level of responsiveness
+3) Vital signs
+4) Pertinent localized findings
+5) Working impression of patient's problem
+G. Treatment
+1) In progress
+2) Requests for drugs or procedures
+H. Estimated time of arrival, including any special circumstances that may cause a delay in transport.
+I. For patients meeting "Code White" or "Code STEMI" criteria, a preliminary telemetry report should be made to notify the receiving facility of the type of activation, and an estimated arrival time. An "Information Only" telemetry should follow once transport has been initiated.
+Communications
+117
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Communications (Cont.)
+
+
+
+1. All patients with absent vital signs who do not have conclusive signs of death (refer to Prehospital Death Determination protocol) shall be treated with life-resuscitating measures unless EMS personnel are presented with a valid Do-Not-Resuscitate (DNR)/Physician Order for Life-Sustaining Treatment (POLST) Identification/Order.
+A. A valid DNR Identification is a form, wallet card, or medallion issued by the Southern Nevada Health District, Nevada Division of Public and Behavioral Health, or an identification issued by another state indicating a person's desire and qualification to have life-resuscitating treatment withheld.
+B. A valid DNR Order is a written directive issued by a physician licensed in this state that life-resuscitating treatment is not to be administered to a qualified patient. The term also includes a valid Do-Not-Resuscitate order issued under the laws of another state.
+C. A valid POLST form signed by a physician that records the wishes of the patient and directs a healthcare provider regarding the provision of life-resuscitating treatment and life-sustaining treatment.
+Note: Verbal instructions from friends or family members DO NOT constitute a valid DNR/POLST.
+2. In preparation for, or during a inter-facility transfer, a valid DNR Order/POLST in the qualified patient's medical record shall be honored in accordance with this protocol.
+3. If the EMS provider is presented with a DNR/POLST Order or Identification, he shall attempt to verify the validity of the Order or Identification by confirming the patient's name, age, and condition of identification.
+4. The DNR/POLST Order or Identification shall be determined INVALID if at any time the patient indicates that he/she wishes to receive life-resuscitating treatment. The EMS provider shall document the presence of the DNR/POLST Order or Identification, and how the patient indicated that he/she wanted the Order or Identification to be revoked. EMS personnel shall relay this information to any subsequent medical providers, including but not limited to,
+flight crews and staff at the receiving medical facility.
+5. Once the DNR/POLST Order or Identification is determined to be valid and has not been revoked by the patient, the emergency care provider shall provide ONLY supportive care and withhold life-resuscitating treatment.
+6. Faxed, copied or electronic versions of the DNR Identification/POLST are legal and valid.
+
+Supportive Care:
+Suction the airway Administer oxygen Position for comfort Splint
+Control bleeding
+Provide pain medication (ALS only) Provide emotional support
+Contact hospice, home health agency, attending physician or hospital as appropriate
+Be attentive of any actions the patient may take to revoke his authorization to withhold life-resuscitating treatment
+
+
+
+
+
+
+
+
+
+
+
+Do Not Resuscitate (DNR/POLST)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do Not Resuscitate (DNR/POLST) (Cont.)
+
+Documentation
+
+
+1. A Patient Care Record (PCR) will be completed for each incident/patient encounter, in accordance with current EMS Regulations. A patient is any individual that, upon contact with an EMS system, has any of the following:
+A. A complaint or mechanism suggestive of potential illness or injury.
+B. Obvious evidence of illness or injury.
+C. An individual or informed 2nd/3rd party caller requests evaluation for potential illness or injury.
+
+2. PCRs shall include no less than the following information:
+A. Patient's name, address, age, and sex;
+B. Date and location of call;
+C. Time of dispatch, arrival at scene, departure from scene, and arrival at hospital;
+D. Mechanism of injury-chief complaint;
+E. Medication(s) used by patient and allergies;
+F. Pertinent patient history, including current medication(s) and allergies;
+G. Signs and symptoms identified during patient assessment, and changes;
+H. Care and treatment given at scene and during transport;
+I. Patient destination;
+J. Name of attendant(s);
+K. If care is provided as authorized by protocol;
+L. File Attachments: The associated monitor file must be uploaded and attached to the PCR if the monitor was used for any of the following purposes:
+
+1) Assessing and/or monitoring the cardiac rhythm;
+2) Obtaining a 12-lead electrocardiogram (ECG)
+3) Providing electrical therapy; cardioversion, defibrillation, and/or pacing
+4) Monitoring End-Tidal Carbon Dioxide (ETCO2) levels and/or waveform of an intubated patient
+
+M. In cases of trauma, the patient's trauma score, TFTC status, and any injury mitigation devices shall be documented, i.e. car seats, seat belts, air bags, helmets, etc.;
+
+N. At least one full set of vital signs;
+1) Blood pressure
+2) Heart rate
+3) Respiratory rate
+4) Temperature as indicated
+5) Oxygen saturation
+6) Reassessment after interventions, i.e. pain score after medications;
+7) Any complications or other relevant information.
+3. Any agency that provides patient care activities prior to the arrival of the transporting agency shall provide the transporting agency with, at a minimum, a verbal report reflecting those activities. This verbal report must be documented in the transporting agency's PCR.
+
+
+
+Documentation
+
+
+
+
+
+
+Assailants detained and	No
+scene immediately safe?
+
+
+Yes
+
+
+
+
+
+While in the triage/treatment area care shall be provided as directed in the Clark County EMS System Emergency Medical Care Protocols as resources permit
+
+
+
+Depending on patient load and acuity request additional resources as needed for transport, including the use of alternate transportation methods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hostile Mass Casualty Incident
+
+
+
+
+1. Ambulance attendants should only transfer a patient whose therapy required during the transfer lies within the ambulance attendant's capabilities, unless capable personnel accompany the patient.
+A. Ambulance attendants are authorized to administer or monitor all medications listed on the official drug inventory as appropriate for their level of licensure and as per protocol.
+B. AEMT and Paramedic ambulance attendants are authorized to administer or monitor any crystalloid IV solution during transport.
+C. EMT ambulance attendants are authorized to monitor locked intravenous peripheral lines during transport, including heplocks, Broviacs, Hickmans, Port-A-Catheters, and PICC lines.
+D. Arterial lines should be discontinued unless appropriate personnel from the initiating facility accompany
+the patient.
+E. Heparin locks/implantable catheters with/without reservoirs may be closed off and left in place. If they are to be used during transport, then an IV drip should be established if tolerated by the patient.
+F. IV pump systems should be discontinued unless capable personnel accompany the patient.
+G. 	Orogastric or nasogastric tubes may be left in place and should either be closed off or left to suction per order of the transferring physician.
+H. Orthopedic devices may be left in place at the ambulance attendant's discretion as to ability to properly
+transport the patient with existing device(s) in place.
+I. Trained personnel authorized to operate the apparatus should accompany any patient requiring mechanical ventilation during transport. If the patient will require manual ventilatory assistance, then at least two persons shall be available to attend to the patient.
+J. Transport of a patient with IV antibiotics established by facility: AEMT or Paramedic Provider must perform all of the following:
+1) Document name of antibiotic
+2) Document dose and rate of administration of antibiotic
+3) If unfamiliar with antibiotic, speak with staff about specific side effects
+4) Monitor medication to ensure proper administration rate during transport
+   5) Monitor patient for signs and symptoms of any side effect and/or allergic reactions such as nausea/vomiting, diarrhea, changes in LOC, rashes, swelling, SOB, or changes in BP. If any changes are noticed, discontinue the infusion and initiate appropriate treatment, document the changes, and inform staff at the receiving facility.
+
+2. Prior to the transfer, the transferring physician is responsible for notifying the receiving physician of the following:
+1) Reason for transfer
+2) Patient condition
+3) Estimated time of arrival
+3. The transferring physician must provide the ambulance attendants with the name of the receiving facility and receiving physician, copies of any available diagnostic tests, X-rays, medical records, copy of code status, DNR, POLST, or advanced directive paperwork as applicable, any isolation precaution information, and the EMTALA form prior to releasing the patient.
+4. Any agency that provides patient care activities prior to the arrival of the transporting agency shall provide the transporting agency with, at a minimum, a verbal report reflecting those activities. This verbal report must be documented in the transporting agency's PCR.
+
+
+
+
+
+Inter-Facility Transfer of Patients By Ambulance (Revised and approved by MAB 06/04/2025)
+
+
+
+
+Pediatric patients (<18 years of age) shall be transported in accordance with the following criteria:
+1. Pediatric patients (including psychiatric patients) shall be transported, based on the preference of the parent or legal guardian, to one of the following facilities:
+A. St. Rose Dominican - Siena Campus
+B. Summerlin Hospital Medical Center
+C. Sunrise Hospital & Medical Center
+D. University Medical Center
+2. If the parent or legal guardian does not have a preference, the patient shall be transported to the closest of the above facilities.
+3. If, in the judgment of prehospital personnel, the transport time to one of the above facilities would be detrimental to a critically ill/unstable pediatric patient, the patient should be transported to the closest Emergency Department.
+4. The patient may be transported to a non-designated facility:
+A. At the request of the parent or legal guardian, and if the child is deemed stable by the EMS provider; or
+B. The incident is greater than 50 miles from the closest pediatric facility; and
+C. The receiving facility and physician are contacted and agree to accept the patient.
+5. Pediatric sexual assault victims shall be transported as follows:
+A. Victims <13 years of age shall be transported to Sunrise Hospital and Medical Center.
+B. Victims 13 years of age and up to 18 years of age shall be transported to either Sunrise Hospital & Medical
+Center or University Medical Center.
+C. For sexual assault victims outside a 50-mile radius from the above facilities, the licensee providing emergency medical care shall transport the patient to the nearest appropriate facility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pediatric Patient Destination
+
+
+For all emergency scenes where patient needs exceed available EMS resources, initial assessment
+and treatment shall be in accordance with the START/SMART triage methodology.
+
+1. Patients who appear to have expired will not be resuscitated or transported by Clark County EMS personnel if any of the following obvious signs of death are present:
+
+
+A. Body decomposition
+B. Decapitation
+C. Transection of thorax (hemicorpectomy)
+D. Incineration
+
+E. For other traumatic injuries suspected to be incompatible with life, medical control must be contacted for medical direction.
+
+
+
+OR if ALL (5) presumptive signs of death AND AT LEAST one (1) conclusive sign of death are identified.
+The (5) presumptive signs of death	Conclusive signs of death include: that MUST be present are:		1) Dependent lividity
+1) Unresponsiveness	2) Rigor mortis
+2) Apnea
+3) Pulselessness
+4) Fixed, dilated pupils
+5) For Non-Traumatic Arrests, Asystole in
+at least 2 (two) leads or a "No Shock Advised" prompt from an AED
+
+If any of the findings are different than those described above, clinical death is not confirmed, and resuscitative measures should be immediately initiated or continued.
+
+2. Once it has been determined that the patient has expired and resuscitation will not be attempted:
+A) Immediately notify the appropriate authority;
+B) DO NOT leave a body unattended. You may be excused once a responsible person (i.e. Coroner's investigator, police, security, or family member) is present;
+C) DO NOT remove any property from the body or the scene for any purpose;
+D) NEVER transport/move a body without permission from the Coroner's office except for assessment or its protection.
+
+If the body is in the public view and cannot be isolated, screened, or blocked from view, and is creating an unsafe situation with citizens/family, the body can be covered with a clean, STERILE BURN SHEET obtained from the EMS vehicle.
+
+
+
+
+
+
+
+
+Prehospital Death Determination (Revised and MAB approved 4/6/2022)
+
+
+
+1. A person who is suspected to be intoxicated and has no other emergent need should be transported to an approved alcohol and drug abuse facility rather than a hospital's emergency department IF the patient meets ALL of the following criteria:
+
+* Patient is able to stand with minimal assistance of one or two people
+* Vitals as follows:
+Blood pressure: Systolic : 90-180
+Diastolic: 60-100
+Pulse Rate: 60-120
+Respiratory Rate: 12-22
+Blood Glucose between 60-250 Glasgow Coma Score > 14
+SpO2 > 94% or 90 if a smoker without the need for supplemental O2
+* No acute medical conditions
+* No signs of trauma
+* No suspected head injury
+* Patient does not meet any other destination criteria
+
+2. A person who is experiencing a mental health crisis and has no other emergent need should be transported to an approved crisis stabilization facility rather than a hospital's emergency department IF the patient meets All of the above criteria as well as the following:
+* Non-violent or not requiring field sedation
+
+3. Approval of the physician or medical staff upon assessment prior to transport to an alternative facility is required. Contact with the facility needs to be routed via recorded phone patch through FAO at 702- 382-9007 or telemetry directly to the facility.
+
+4. All of the above parameters must be met and the patient must be clinically stable.
+
+5. If there is ANY doubt about whether the person is in need of emergency medical care, the person should be transported to a receiving emergency facility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Public Intoxication/Mental Health Crisis (revised and approved by MAB 09/03/2025)
+
+
+
+When EMS or hospital personnel wish to have an incident involving patient care reviewed within the Clark County EMS system, the following steps shall be taken:
+1. The person requesting a review of an incident should contact the designated representative of the agency/ hospital involved to initiate the process. If after gathering appropriate information and discussing the incident both parties are satisfied a problem does not exist, nothing further needs to be done.
+2. If either party would like to pursue an investigation of the incident, the "Southern Nevada Health District EMS Incident Report" should be completed and a copy should be forwarded to the OEMSTS.
+3. Upon receipt of the "Southern Nevada Health District EMS Incident Report" OEMSTS staff will review the
+case, gather information from the agencies/hospitals involved, and evaluate the need for further investigation. The agency/hospital may be asked to conduct an internal investigation, involving their medical director when appropriate, and provide a summary of their findings to the OEMSTS.
+4. The personnel involved in the incident may be interviewed by the EMS medical director or his designee and their agency/hospital medical director to gather additional information.
+5. Upon completion of the investigation, a report will be prepared and given to the agency/hospital representatives involved. Direct communication between the agency/hospital and complainant is recommended with a brief written summary of actions taken provided to the OEMSTS.
+6. A quarterly aggregate summary of the incidents reviewed by the OEMSTS will be prepared and reported at the Quality Improvement Directors and Medical Advisory Board meetings.
+7. All documentation and correspondence regarding this quality improvement activity; to monitor, review, evaluate, and report on the necessity, quality, and level of care provided a patient is confidential pursuant to NRS 49.117 - NRS 49.123, NRS 49.265, NRS 450B.810 and NRS 629.061.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quality Improvement Review
+
+
+
+1. Licensed EMS personnel are not obligated to continue resuscitation efforts that have been started by
+other persons at the scene if the patient meets the criteria listed in the Prehospital Death Determination protocol. This includes telephone CPR initiated by Emergency Medical Dispatchers.
+2. Resuscitation should be terminated/ not initiated without telemetry contact if a valid DNR/POLST or physician written order is provided.
+
+3. Resuscitation started in the field may be discontinued only by a telemetry physician order when the following conditions have been met:
+A. For medical arrest, contact closest hospital for telemetry physician order:
+The patient remains in persistent asystole or agonal rhythm after twenty (20) minutes of appropriate resuscitation, to include:
+1) CPR
+2) Effective ventilation with 100% oxygenation
+3) Administration of appropriate ACLS medications, if available.
+4) Confirm no organized rhythm or PEA<40, or a "No Shock Advised" on AED
+B. For traumatic arrest, contact TRAUMA CENTER based on catchment for telemetry physician order:
+1) Open airway with basic life support measures
+2) Provide CPR and effective ventilations with 100% oxygenation for two (2) minutes
+3) Perform bilateral needle decompression if tension pneumothorax suspected
+4) Confirm no organized rhythm or PEA <40, or a "No Shock Advised" on AED
+
+C. The patient develops, or is found to have one of the following conclusive signs of death at
+any point during the resuscitative effort:
+1) Lividity
+2) Rigor mortis
+4. When resuscitation has been terminated in the field, all medical interventions shall be left in place.
+5. If possible, do not leave a body unattended. Once a responsible person (i.e. Coroner's investigator, police, security, or family member) is present at the scene, you may be excused.
+6. NEVER transport/move a body without permission from the Coroner's office, except for assessment or its protection.
+
+If the body is in the public view and cannot be isolated, screened, or blocked from view, and is creating an unsafe situation with citizens/family, the body can be covered with a clean, STERILE BURN SHEET obtained from the EMS vehicle.
+
+NOTES: In rural or wilderness situations, EMS providers must make every effort to contact medical control, but resuscitation may be terminated in the field without medical control when any of the following have occurred:
+A. There has been no return of pulse despite greater than 20 minutes of CPR and effective ventilation (consider extending in the case of hypothermia or drowning)
+B. Transport to an emergency department will take greater than 40 minutes (consider extending in the case
+of hypothermia or drowning)
+C. The EMS providers are exhausted and it is physically impossible to continue the resuscitation.
+
+
+
+
+Termination of Resuscitation (Revised and MAB approved 4/6/2022)
+
+
+Transport Destinations
+
+
+1. Medically stable patients should be transported to their hospital of choice if the destination is not significantly beyond the primary response area of the transporting agency. If the patient does not have a preference, the patient should be transported to the nearest appropriate facility.
+
+2. Patients sustaining traumatic injuries shall be transported in accordance with the Trauma Field Triage Criteria Protocol.
+3. Patients sustaining burn injuries shall be transported in accordance with the Burns Protocol.
+4. Pediatric patients (<18 years of age for transport purposes ONLY) shall be transported in accordance with the Pediatric Destination Protocol.
+5. Patients with evidence of an acute cerebrovascular accident shall be transported in accordance with the Stroke Protocol.
+6. Sexual assault victims shall be transported as follows:
+A. Victims <13 years of age shall be transported to Sunrise Hospital & Medical Center.
+B. Victims 13 years of age and up to 18 years of age shall be transported to either Sunrise Hospital & Medical Center or University Medical Center.
+C. Victims 18 years of age and older shall be transported to University Medical Center.
+D. For sexual assault victims outside of a 50-mile radius from the above facilities, the licensee providing emergency medical care shall transport the patient to the nearest appropriate facility.
+7. All medical patients in cardiac arrest or in whom the ability to adequately ventilate cannot be established should be transported to the closest facility.
+8. If a hospital declares an Internal Disaster, that facility is to be bypassed for ALL patients except patients in cardiac arrest, or in whom the ability to adequately ventilate has not been established.
+
+9. For patients outside of a 50 mile radius from protocol designated transport destinations, the licensee providing
+emergency medical care shall transport the patient to the nearest appropriate facility.
+
+
+Transport Destinations (Revised and MAB approved 08/03/2022)
+
+
+
+
+
+
+
+Trauma Field Triage Criteria (Revised and approved by MAB 08/02/2023)
+
+
+
+Adult Patient: UMC or Sunrise based on geographical location
+* Sunrise:
+West border: Paradise Rd	East border: County line
+North border: Sahara Ave	South border: County line
+*****Including St. Rose Siena's catchment and the city of Henderson in its entirety*****
+* UMC: Everything outside of the above-described area
+Pediatric Patient: All go to UMC
+
+Yellow Mechanism of Injury
+Adult Patient: UMC, Sunrise, Siena, or MOMMC based on geographical location
+* Sunrise:
+West border: Paradise Rd	East border: County line
+North border: Sahara Ave	South border: Sunset Rd
+* Siena:
+West border: Maryland Pkwy/Paradise Rd	East border: County line North border: Sunset Rd	South border: County line
+****including the city of Henderson in its entirety****
+* MOMMC
+West border: N 5th Street	East border: County line
+North border: County line	South border: Lake Mead Blvd
+* UMC: Any area outside of the above-described areas
+Pediatric Patient: UMC, Sunrise, or Siena based on geographical location
+* Sunrise:
+West border: Paradise Rd	East border: County line
+North border: Sahara Ave	South border: Sunset Rd
+* Siena:
+West border: Maryland Pkwy/ Paradise Rd	East border: County line North border: Sunset Rd	South border: County line
+* UMC: Any area outside of the above-described areas
+
+Yellow EMS Judgment
+***Patients of any age meeting these criteria may be transported to the same trauma catchment area as Yellow Mechanism of Injury but may be taken to another appropriate receiving facility based on EMS provider judgment.
+
+
+Additional Notes:
+* All trauma calls that meet the Trauma Field Triage Criteria protocol, regardless of location, that are transported by air ambulance are to be transported to University Medical Center/Trauma and the medical directions for the treatment of the patient must originate at that center.
+* Nothing contained within these guidelines precludes transport to any trauma facility if, in the provider's judgment, time to transport to the designated center would be unduly prolonged due to traffic and/or weather conditions and might jeopardize the patient's condition.
+* Nothing contained within these guidelines precludes transport to the closest facility if, in the provider's judgment, an ability to adequately ventilate the patient might result in increased patient mortality.
+* Trauma center internal disaster and trauma bypass status must be considered.
+* Trauma patients (or their parent or guardian) who refuse transport to the closest appropriate trauma center must sign a release of medical assistance acknowledging their refusal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROCEDURES
+PROTOCOLS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+133
+
+
+
+
+
+
+
+Key procedural considerations:
+A. If (A-E) above are ALL NEGATIVE, cervical stabilization is not required.
+B. If required, cervical stabilization is the placement of an approved, properly- sized cervical collar before the patient is moved.
+C. Tape, head straps, wedges, and head and/or neck support devices are not
+recommended.
+D. 	Patients found in motor vehicles should be asked if they are able to exit the motor vehicle on their own. If so, they should be assisted to a soft stretcher and secured for transport. Patients unable to exit the vehicle on
+their own accord should be removed by the appropriate extrication method.
+E. Once on the stretcher, the patient may be moved to a semi-Fowler's or high-Fowler's position for comfort.
+F. If a backboard is used for extrication or movement, the patient should be immediately moved to a soft mattress, if possible.
+G. In special situations, alternate stabilization devices (e.g. vacuum mattress, KED, etc. may be used as indicated).
+H. Pediatric patients may be stabilized in an approved car seat or with a
+commercial pediatric stabilization device.
+
+
+
+
+
+
+Cervical Stabilization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electrical Therapy/Defibrillation (revised and approved by MAB 04/06/2022)
+
+
+
+
+
+Electrical Therapy/Synchronized Cardioversion(Revised and approved by MAB 12/04/2024)
+
+
+
+
+
+
+
+
+
+
+Electrical Therapy/Transcutaneous Pacing(Revised and approved by MAB 6/04/2025)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extraglottic Airway Device
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Response Evaluate and Release
+
+
+
+
+
+
+
+
+
+Hemorrhage Control (revised and MAB approved 08/05/2024)
+
+
+
+
+
+
+
+
+Medication Administration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Needle Cricothyroidotomy
+
+
+
+
+
+
+
+
+
+
+
+
+
+Needle Thoracostomy (revised and approved by MAB 04/03/2024)
+
+
+
+
+
+
+
+
+
+
+
+
+Non-Invasive Positive Pressure Ventilation (NIPPV)(Revised and approved by MAB 12-06-2023)
+
+
+
+
+
+
+
+
+
+
+
+Key Procedural Considerations:
+* Treat the patient with respect. Attempts to verbally reassure or calm the patient should be done prior to the use of restraints. To the extent possible, explain what is being done and why.
+* Acceptable restraints are "hard-type" restraints made of padded leather material or "soft-type" restraints made of padded soft cloth or Velcro and which are manufactured for the purpose of restraint. Gauze (e.g. kerlix), tape, or hard plastic ties should not be used.
+* Any restraint device used must allow for rapid removal if necessary for management of the patient's medical condition, including airway, breathing, or circulation.
+* Restraints should be secured to the frame of the gurney. Avoid securing restraints to moveable parts such as rails, levers, etc.
+* Apply restraints to the extent necessary to allow treatment of, and prevent injury to, the patient. Under- restraint may place both patient and clinician at greater risk. Restraints may be applied to all four extremities, or both upper extremities, or to one upper and one lower extremity.
+* Patients shall be restrained in the supine position.
+* The patient's upper extremities should be restrained at the wrist, either at the patient's sides or with one arm above the patient's head and the other to the side.
+* The patient's lower extremities should be restrained at the ankles in the extended and uncrossed position.
+* If necessary, straps may be placed across the patient's pelvis and/or legs.
+* Gurney seatbelts/straps may be used as designed, but must not restrict breathing/chest movement. Additional straps may not be placed on the patient's neck, chest, or abdomen, and patient should not be sandwiched by any device.
+* After application of restraints, check all restrained limbs for circulation as soon as possible after application, and then at least every 15 minutes. During the time that a patient is in restraints, continuous attention to the patient's airway, circulation, and vital signs is mandatory. Apply ECG, SpO2 and ETCO2 monitors if available.
+* The restrained patient must be under constant observation by a licensed EMS clinician at all times and may not be left unattended.
+* Consider de-escalation of restraints if appropriate in the judgment of the EMS clinician.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tracheostomy Tube Replacement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Traction Splint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vagal Maneuvers
+
+
+
+
+
+Indications for Intraosseous Access (Paramedic for Adult/ Peds, AEMT for Adult, Unc/Unresponsive Peds only) Critically ill or injured patient who requires IV drugs/fluids and in whom a peripheral line cannot be immediately established.
+
+Contraindications:
+A. Placement in, or distal to a fractured bone.
+B. Previous significant orthopedic procedure at the site; prosthetic limb or joint; IO catheter use in past 48 hours of the target bone.
+C. Infection at the area of insertion.
+D. Absence of adequate anatomical landmarks.
+
+Paramedic may administer lidocaine 1% or 2% preservative-free for anesthetic in a patient responsive to pain.
+1) Prime IO extension tubing set with lidocaine (EZ IO, EZ Connect priming volume is 1 ml)
+2) Slowly infuse lidocaine 40 mg (PEDIATRIC dose: 0.5 mg/kg not to exceed 40 mg) IO over 120 seconds.
+3) Allow lidocaine to dwell in IO space for 60 seconds.
+4) Flush IO with 5-10 ml normal saline.
+5) Slowly administer an additional dose of lidocaine IO (20 mg) over 60 seconds. (Pediatric dose: 0.25 mg/kg, not to exceed 20 mg)
+6) Consider systemic pain medication for patients not responding to IO lidocaine.Key procedural considerations: Only 1 (one) attempt is permitted per extremityIndications for use of Previously Established Central Line Access:
+This procedure may be performed on any critically ill or injured patient who requires IV drugs
+or IV fluids AND in whom a peripheral line cannot be established.Contraindications: Inability to freely aspirate blood out of the catheter.Key procedural considerations: Central line access (Implantable Ports, Port-A-Caths, Medports)
+A. May only be used if the device has already been accessed and IV fluid set-up has been established and running.
+B. These devices require special needles (non-coring type) for access. The device may be
+damaged if standard jumper (conventional) needles are used to access the ports.
+Vascular Access (Revised and approved by MAB 8/2/2023)
+
+
+
+
+
+FORMULARY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+153
+
+ACETAMINOPHEN (Ofirmev)
+
+CLASS: Analgesic
+ACTION: Reduction of prostaglandin in CNS for pain relief
+DOSE:
+CONTRAINDICATIONS: Hypersensitivity to the drug; acetaminophen dose within 4 hours; 4 grams of acetaminophen within a 24-hour period; chronic liver disease; liver failure; hyperthermia with environmental etiology.
+ADVERSE REACTIONS: None
+
+
+ACETYLSALICYLIC ACID (Aspirin)
+
+CLASS: Nonsteroidal anti-inflammatory
+ACTION: Platelet inhibition
+DOSE:
+
+CONTRAINDICATIONS: Allergy to Aspirin
+ADVERSE REACTIONS: None
+ADENOSINE (Adenocard)
+
+CLASS: Antiarrhythmic
+ACTION: Slows conduction through the AV node and can interrupt re-entry pathways
+DOSE:
+
+
+ADENOSINE (cont)
+
+CONTRAINDICATIONS: Second or third degree AV block or sick sinus syndrome (unless patient with a functional artificial pacemaker); atrial flutter; atrial fibrillation. Repeat doses are not indicated if the dysrhythmia occurs after conversion.
+ADVERSE REACTIONS: Facial flushing; headache; sweating; palpitations
+
+
+ALBUTEROL (Proventil)
+
+CLASS: Sympathomimetic ACTION: Bronchodilator DOSE:
+
+CONTRAINDICATIONS: Hypersensitivity to the drug
+ADVERSE REACTIONS: Tachycardia; palpitations; anxiousness; headache.
+
+
+AMIODARONE (Cordarone)
+
+CLASS: Antiarrhythmic
+ACTION: Suppresses ventricular ectopy; increases ventricular fibrillation threshold
+DOSE:
+
+
+CONTRAINDICATIONS: Hypersensitivity to the drug; cardiogenic shock; high grade AV block; marked sinus bradycardia; or bradycardia with ventricular escape beats
+ADVERSE REACTIONS: Seizures; respiratory depression; restlessness; confusion; tinnitus; blurred vision; numbness; muscle twitching; hypotension; bradycardia; heart block; nausea; vomiting.
+
+ATROPINE SULFATE
+
+CLASS: Parasympathetic blocker
+ACTION: Cholinergic blocking agent; increases rate of SA node discharge; increases conduction
+DOSE:
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: None
+BRONCHODILATOR METERED DOSE INHALER
+
+CLASS: Sympathomimetic
+ACTION: Bronchodilator
+DOSE: Assist the patient in administering their own Bronchodilator Metered Dose Inhaler exactly as prescribed.
+CONTRAINDICATIONS: Sensitivity to the drug
+ADVERSE REACTIONS: Tachycardia; palpitations; anxiousness; headache
+
+
+CALCIUM CHLORIDE
+
+CLASS: Electrolyte
+ACTION: Increases myocardial contractility; increases myocardial excitability; decreases heart rate
+DOSE:
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: None
+
+DIAZEPAM (Valium)
+
+CLASS: Antianxiety/Anticonvulsant
+ACTION: CNS Depressant
+DOSE:
+
+CONTRAINDICATIONS: Hypersensitivity; hypotension
+ADVERSE REACTIONS: Respiratory depression; CNS depression; nausea; vomiting
+
+
+DIPHENHYDRAMINE HYDROCHLORIDE (Benadryl)
+
+CLASS: Antihistamine
+ACTION: Blocks histamine receptors; has some sedative effects; anticholinergic
+DOSE:
+
+
+CONTRAINDICATIONS: Hypersensitivity to the drug
+ADVERSE REACTIONS: Sedation; palpitations; decreased blood pressure; headache; dries (thickens) bronchial secretions; blurred vision
+
+
+DROPERIDOL (Inapsine)
+
+CLASS: Antiemetic
+ACTION: Lowers incidence of nausea and vomiting
+
+DROPERIDOL (Inapsine) (cont)
+
+DOSE:
+
+
+CONTRAINDICATIONS: Suspected STEMI or chest pain; hypotension; respiratory depression; hypersensitivity to the drug; known prolonged QT interval
+ADVERSE REACTIONS: EPS; syncope; cardiac dysrhythmias
+
+
+EPINEPHRINE 1:1000
+
+CLASS: Sympathomimetic
+ACTION: Bronchodilation; positive chronotrope; positive inotrope
+DOSE:
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: Palpitations due to tachycardia or ectopic beats may produce arrhythmia if cardiac disease is present; elevated blood pressure; headache; anxiousness
+
+
+EPINEHPRHINE 1:10,000
+
+CLASS: Sympathomimetic
+ACTION: Bronchodilation; positive chronotrope; positive inotrope
+
+EPINEPHRINE 1:10,000 (cont)
+
+DOSE:
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: Palpitations due to tachycardia or ectopic beats may produce arrhythmia if cardiac disease is present; elevated blood pressure; headache; anxiousness
+
+
+EPINEHPRINE 1:100,000
+
+CLASS: Sympathomimetic
+ACTION: Bronchodilation; positive chronotrope; positive inotrope
+DOSE:
+
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: Palpitations due to tachycardia or ectopic beats may produce arrhythmia if cardiac disease is present; elevation of blood pressure; headache; anxiousness
+
+EPINEPHRINE AUTO-INJECTOR
+
+CLASS: Sympathomimetic
+ACTION: Bronchodilation; positive chronotrope; positive inotrope
+DOSE: Assist the patient in administering their own Epinephrine auto-injector exactly as prescribed
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: Palpitations due to tachycardia or ectopic beats may produce arrhythmia if cardiac disease is present; elevation of blood pressure; headache; anxiousness
+
+
+ETOMIDATE (Amidate)
+
+CLASS: Sedative/hypnotic ACTION: CNS Depressant DOSE:
+
+
+CONTRAINDICATIONS: Known hypersensitivity to the drug
+ADVERSE REACTIONS: Pain; transient skeletal movements; nausea; vomiting; hypoventilation; hypotension
+FENTANYL CITRATE
+
+CLASS: Analgesic ACTION: CNS Depressant DOSE:
+
+
+FENTANYL CITRATE (cont)
+
+CONTRAINDICATIONS: Known hypersensitivity to the drug
+ADVERSE REACTIONS: Respiratory depression; rapid infusion may produce "stiff chest syndrome"
+
+
+GLUCAGON
+
+CLASS: Insulin Antagonist
+ACTION: Reverses the effects of hypoglycemia
+DOSE:
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: Nausea; vomiting
+
+
+GLUCOSE - ORAL GLUCOSE
+
+CLASS: Carbohydrate
+ACTION: Quick infusion of sugar into the blood for metabolism
+DOSE:
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: None
+
+GLUCOSE - D10
+
+CLASS: Carbohydrate
+ACTION: Quick infusion of sugar into blood for metabolism
+DOSE:
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: None
+
+
+HYDROMORPHONE (Dilaudid)
+
+CLASS: Analgesic ACTION: CNS Depressant DOSE:
+
+CONTRAINDICATIONS: Known hypersensitivity to the drug; intolerance to opiate analgesics
+ADVERSE REACTIONS: Respiratory depression
+
+
+HYDROXOCOBALAMIN
+
+CLASS: Detoxifying agent
+ACTION: Competitively binds to cyanide ions
+DOSE:
+
+
+HYDROXOCOBALAMIN (cont)
+
+CONTRAINDICATIONS: None
+ADVERSE REACTIONS: None
+
+
+IPRATROPIUM BROMIDE (Atrovent)
+
+CLASS: Anticholinergic
+ACTION: Appears to inhibit vagally mediated reflexes
+DOSE:
+
+
+CONTRAINDICATIONS: Hypersensitivity to the drug
+ADVERSE REACTIONS: Headache; nausea
+
+
+IPRATROPIUM BROMIDE and ALBUTEROL SULFATE (Duoneb)
+
+CLASS: Anticholinergic/ Sympathomimetic
+ACTION: Appears to inhibit vagally mediated reflexes and acts as a bronchodilator
+DOSE:
+
+CONTRAINDICATIONS: Hypersensitivity to either of the base medications
+ADVERSE REACTIONS: Tachycardia; palpitations; anxiousness; headache; nausea
+KETAMINE (Ketalar)
+
+CLASS: General anesthetic/ induction agent
+ACTION: CNS Depressant
+DOSE:
+
+
+KETAMINE (cont)
+
+CONTRAINDICATIONS: Use caution in patients with systolic BP over 180 mm Hg
+ADVERSE REACTIONS: Respiratory depression
+LEVALBUTEROL (Xopenex)
+
+CLASS: Bronchodilator
+ACTION: Relaxation of the bronchial wall smooth muscle
+DOSE:
+
+CONTRAINDICATIONS: Hypersensitivity to the drug
+ADVERSE REACTIONS: Tachycardia; palpitations; anxiousness; tremors; nausea; vomiting
+LIDOCAINE (Xylocaine) 1% or 2% INJECTION
+
+CLASS: Anesthetic
+ACTION: Produces anesthesia by interfering with nervous system transmission
+DOSE:
+
+CONTRAINDICATIONS: Hypersensitivity to the drug
+ADVERSE REACTIONS: Seizures; respiratory depression; dizziness; restlessness; confusion; tinnitus; blurred vision; muscle twitching; hypotension; bradycardia; heart block; nausea; vomiting
+LIDOCAINE (Xylocaine) 2% LUBRICANT
+
+CLASS: Topical anesthetic
+ACTION: Produces anesthesia by interfering with nervous system transmission
+DOSE:
+
+
+LIDOCAINE 2% LUBRICANT (cont)
+
+CONTRAINDICATIONS: Hypersensitivity to the drug
+ADVERSE REACTIONS: Seizures; respiratory depression; dizziness; restlessness; confusion; tinnitus; blurred vision; muscle twitching; hypotension; bradycardia; heart block; nausea; vomiting
+MAGNESIUM SULFATE
+
+CLASS: Electrolyte
+ACTION: Membrane stabilization; raises seizure threshold
+DOSE:
+
+CONTRAINDICATIONS: Hypersensitivity to the drug; high degree heart block; renal failure
+ADVERSE REACTIONS: Hypotension; asystole; respiratory depression; weakness
+METOCLOPRAMIDE (Reglan)
+
+CLASS: Antiemetic
+ACTION: Dopamine agonist that works by blocking CNS vomiting chemoreceptor trigger zone (CRT)
+DOSE:
+
+CONTRAINDICATIONS: Known hypersensitivity to the drug
+ADVERSE REACTIONS: Restlessness; hyperactivity; anxiety; sedation; increased GI motility; use caution in suspected bowel obstruction. Extra-pyramidal reactions have been seen days to hours after treatment. Protect medication from light (photosensitive).
+
+MIDAZOLAM (Versed)
+
+CLASS: Anxiolytic ACTION: CNS Depressant DOSE:
+
+CONTRAINDICATIONS: Hypersensitivity to the drug; hypotension; clinical signs of shock
+ADVERSE REACTIONS: CNS depression; hypotension; respiratory depression
+
+
+MORPHINE SULFATE
+
+CLASS: Narcotic
+ACTION: CNS Depressant
+DOSE:
+
+
+MORPHINE SULFATE (cont)
+
+CONTRAINDICATIONS: Hypersensitivity to opiates; head injuries; chest or abdominal injury; clinical signs of shock
+ADVERSE REACTIONS: Respiratory depression; nausea; vomiting; bradycardia; orthostatic hypotension; altered level of consciousness
+NALOXONE HYDROCHLORIDE (Narcan)
+
+CLASS: Narcotic antagonist
+ACTION: Reverses the effects of narcotics
+DOSE:
+
+
+CONTRAINDICATIONS: Hypersensitivity to the drug; intubated patients; the newly born
+ADVERSE REACTIONS: Rapid administration causes projectile vomiting
+NITROGLYCERIN
+
+CLASS: Vasodilator
+ACTION: Dilates systemic arteries and veins; reduces both preload and afterload
+DOSE:
+
+
+CONTRAINDICATIONS: Hypotension (do not administer if systolic pressure is below 100 mm Hg unless ordered by a physician; use of erectile dysfunction meds within 48 hours; hypersensitivity to nitrates
+ADVERSE REACTIONS: Hypotension
+ONDANSETRON HYDROCHLORIDE (Zofran)
+
+CLASS: Selective serotonin blocking agent
+ACTION: Antiemetic
+
+ONDANSETRON HYDROCHLORIDE (cont)
+
+DOSE:
+
+CONTRAINDICATIONS: Hypersensitivity to the drug
+ADVERSE REACTIONS: Headache; chest pain; dizziness; hypotension
+
+
+OXYMETAZOLINE (Afrin) 0.05% SPRAY
+
+CLASS: Sympathomimetic
+ACTION: Direct local vasoconstriction
+DOSE:
+
+
+CONTRAINDICATIONS: Monoamine oxidase inhibitor (MAOI) use within 14 days
+ADVERSE REACTIONS: None
+PHENYLEPHRINE
+
+CLASS: Sympathomimetic
+ACTION: Direct local vasoconstriction
+DOSE:
+
+
+CONTRAINDICATIONS: Ventricular tachycardia; severe coronary disease; head injured patients with altered mental status
+ADVERSE REACTIONS: None
+
+PHENYLEPHRINE PUSH DOSE (Injectable)
+
+CLASS: Sympathomimetic
+ACTION: Alpha-1 adrenergic receptor agonist
+DOSE:
+
+
+CONTRAINDICATIONS: Hypovolemic shock is a relative contraindication. Hypotension due to hypovolemia or distributive shock should be addressed with a fluid bolus before administering Push Dose Phenylephrine.
+ADVERSE REACTIONS: None
+PROCHLORPERAZINE (Compazine)
+
+CLASS: Antiemetic
+ACTION: Dopamine agonist with antiemetic actions
+DOSE:
+
+
+CONTRAINDICATIONS: Known hypersensitivity to the drug
+ADVERSE REACTIONS: Possible dystonic reactions
+SODIUM BICARBONATE
+
+CLASS: Alkalinizing agent ACTION: Increases blood pH DOSE:
+
+
+
+
+First Response Low-Risk Alpha Evaluate and Release Form (example)
+
+Incident #:	EMS Agency:
+Patient Name:	Date of Birth:
+Address:	Phone #:
+Responding Ambulance Service:	AMR	MW	Community Ambulance Medical Priority Dispatch System Code:			Time of Patient Contact: Patient Complaint(s):
+Primary Survey Complete	Secondary Survey Complete
+
+
+Vital Signs: HR 	
+General Impression:
+
+RR	 BP	
+
+SpO2	BG (as applicable)	
+
+
+
+
+
+Confirm the following:
+Normal vital signs	Time last taken:
+Patient does not meet Trauma Field Triage Criteria
+No indication for an ECG or cardiac monitoring per SNHD Emergency Medical Care Protocols Patient is not a threat to self or others
+Patient denies AND no evidence or suspicion of the following:
+Pregnancy	Head trauma	Chest pain
+Active bleeding	Seizure	Stroke
+Allergic reaction	Shortness of breath	Syncope, near syncope, or dizziness Overdose or ingestional error	Abdominal pain/flank pain above the
+Umbilicus if >35 years of age
+Inclusion Criteria:
+Call coded and dispatched using MPDS, Alpha or Omega category Patient between 18 and 65 years of age
+Patient has decision making capacity
+Patient has a phone to call 9-1-1 if their condition worsens
+
+We have assessed and examined you and have determined your condition as NOT THREATENING TO LIFE/LIMB. With your permission, we will return to service so we may be available in the case of another emergency. An ambulance is continuing to respond. If your condition worsens in any way, call 9-1-1.
+I consent to waiting for the ambulance and understand that I can call 9-1-1 if I get worse in any way.
+
+
+
+
+Patient signature	Provider signature
+
+A1
+
+
+
+
+
+
+
+
+Agrees?
+
+Yes
+
+
+
+
+
+Yes
+
+
+No
+
+EMS Personnel suspect compromise in judgment in presence of life/limb threatening injury/illness?
+
+
+
+
+
+Yes
+
+
+No
+
+
+Patient is an adult or an emancipated minor and has decision-making capacity?
+
+
+Yes
+
+
+No
+
+Guardian available? (Consider cellular or dispatch assisted contact)
+
+
+No
+
+
+
+Rational teen in low risk situation?
+
+
+Yes
+
+
+Yes
+
+Patient willing to sign waiver?
+
+
+No	No
+
+
+
+
+
+
+
+Southern Nevada Health District
+Office of Emergency Medical Services & Trauma System Authorized Medication List
+The following is the formulary used by EMS agencies in Clark County. Licensed EMS providers working in the EMS System for a permitted agency are authorized, within their level of certification and training, to administer medications as directed by the written treatment protocols.MedicationsEMTAEMTParamedicAcetaminophenXXXAcetylsalicylic AcidXXXAdenosineXAlbuterolXXAmiodaroneXAtropine SulfateXBronchodilator Metered Dose InhalerXXXCalcium ChlorideXDiazepamXDiphenhydramine HydrochlorideXXDroperidolXEpinephrineXXEpinephrine AutoinjectorXXXEtomidateXFentanyl CitrateXGlucagonXXGlucose - OralXXXGlucose Sterile InjectibleXXHydromorphoneXHydroxocobalaminXIpratropium BromideXIpratropium Bromide & Albuterol SulfateXKetamineXLevalbuterolXXLidocaineXMagnesium SulfateXMetoclopramideXMidazolamXMorphine SulfateXNaloxone HydrochlorideXXXNitroglycerinXXXOndansetron HydrochlorideXXOxymetazolineXXXPhenylephrineXXXPush Dose PhenylephrineXProchlorperazineXSodium BicarbonateXSolu-CortefXX
+
+
+
+
+
+Southern Nevada Health District
+Office of Emergency Medical Services & Trauma System Authorized Skills List
+The following are the authorized skills used by EMS providers in Clark County. Licensed EMS providers working in the EMS System for a permitted agency are authorized, within their level of certification and training, to perform the skills as directed by the written treatment protocols.SkillsEMTAEMTParamedic12-Lead ECG InterpretationX3-Lead ECG InterpretationXAirway Adjunct OPA/NPAXXXAirway SuctionXXXCapnometry (Color Change Device)XXCapnometry (Continuous Waveform)XCarotid MassageXCervical StabilizationXXXCPRXXXDefibrillation - AEDXXXDefibrillation - ManualXEndotracheal Intubation - NasalXEndotracheal Intubation - OralXExtraglottic AirwayXXGastric DecompressionXGlucose MeasurementXXXHemorrhage ControlXXXMedication AdministrationXXXNeedle CricothyroidotomyXNeedle DecompressionXNIPPVXXOxygen AdministrationXXXPatient AssessmentXXXPulse OximetryXXXRestraintsXXXSplintingXXXStroke ScreeningXXXSynchronized CardioversionXThermometerXXXTracheostomy Tube ReplacementXTranscutaneous PacingXVagal ManeuversXVascular Access IVX**XX
+Vascular Access IOX (Adult,
+Peds unc)
+X** requires IV endorsement, skill performance under direct observation of licensed AEMT or paramedic
+
+
+
+CCFD-2019 FLEETMAPALL OTHER FIRE DEPTS (LVFD, NLVFD, HFD, BCFD)EMS (AMR, MWA, CA, GEMS, etc...)Zone #Zone 12Zone 13Zone 14Zone #Zone 12Zone 13Zone 14Zone #ZONE-5ZONE-6ZONE-7Zone NameHospitals 1Hospitals 2Hospitals 3Zone NameHospitals 1Hospitals 2Hospitals 3Zone NameMEDICAL_ZONEHOSPITAL_1HOSPITAL_2ChnTalk GroupTalk GroupTalk GroupChnTalk GroupTalk GroupTalk GroupChnTalk GroupTalk GroupTalk Group1ALIANTESR SIENANEW HOSP 61ER at HCASR SIENANEW HOSP 61AMRBOULDER_CITYSUMMERLIN2BLDR CITYSUMRLINNEW HOSP 72BLDR CITYSUMRLINNEW HOSP 72MEDIC_WESTCENTENNIALSUMRLIN_PEDS3CENTEN HILLSSUMRLIN PEDNEW HOSP 83CENTEN HILLSSUMRLIN PEDNEW HOSP 83COMMUNITYDSRT_SPRINGSSUNRISE_ER4CROSSROADSSUN ERNEW HOSP 94DETOX LOCSUN ERNEW HOSP 94MED_BRANCHMESA_VIEWSUNRISE_PEDS5DSRT SPRGSUN PEDSNEW HOSP 105DSRT SPRGSUN PEDSNEW HOSP 105ALL_HOSPTLSMTN_VIEWSUNRISE_TRAUMA6GREEN VALLEYSUN TRMANEW HOSP 116ER at VHSSUN TRMANEW HOSP 116EMS_TAC_6NELLIS/CALAGHNUMC_ER7HENDERSONUMC ERNEW HOSP 127HENDERSONUMC ERNEW HOSP 127EMS_TAC_7NORTH_VISTAUMC_PEDS8LAKES ERUMC PEDSNEW HOSP 138BLANKUMC PEDSNEW HOSP 138EMS_TAC_8SOUTH_HILLSUMC_TRAUMA9MESA VIEWUMC TRMANEW HOSP 149MESA VIEWUMC TRMANEW HOSP 149EMS_TAC_9SPRG_VALLEYVALLEY10MTN VIEWVALLEYNEW HOSP 1510MTN VIEWVALLEYNEW HOSP 1510EMS_TAC_10ST_ROSE_LIMAVA_MC11NELLISVAMCNEW HOSP 1611NELLISVAMCNEW HOSP 1611EMS_TAC_11SAN_MARTINNEW_HOSP_112N VISTANEW HOSP 1NEW HOSP 1712N VISTASR MICRONEW HOSP 1712EMS_TAC_12ST_ROSE_SIENNEW_HOSP_213SO. HILLSNEW HOSP 2NEW HOSP 1813SO. HILLSNEW HOSP 2NEW HOSP 1813EMS_TAC_13UHS_HENDERSONNEW_HOSP_314SPRG VALLNEW HOSP 3NEW HOSP 1914SPRG VALLNEW HOSP 3NEW HOSP 1914EMS_TAC_14LAKES_ERMERCY_AIR15SR DELIMANEW HOSP 4NEW HOSP 2015SR DELIMANEW HOSP 4NEW HOSP 2015EMS_TAC_15BLANKBLANK16SR SAN MARTNEW HOSP 5NEW HOSP 2116SR SAN MARTNEW HOSP 5NEW HOSP 2116BLANKBLANKBLANK11/21/2019Communications to SR MICRO can be performed via zone - 13 (Hospital 2) on channel - 12 (New HOSP 1) via the CCFD FLEETMAP.
+Communications to SR MICRO can be performed via zone - 13 (Hospital 2) on channel - 12 (SR MICRO) via the ALL OTHER FIRE DEPTS FLEETMAP.
+Communications to SR MICRO are NOT available at this time via the EMS FLEETMAP.LEGENDSR MICROER at HCASt. Rose Blue Diamond St. Rose NLV
+St. Rose Sahara
+St. Rose W. Flamingoaliante ER
+the lakes ER12/10/2019Communicatioins to Elite Medical FED can be performed via zone - 13 (Hospital 2) on channel - 13 (New HOSP 2) via the CCFD FLEETMAP.
+Communicatioins to Elite Medical FED can be performed via zone - 13 (Hospital 2) on channel - 13 (New HOSP 2) via the ALL OTHER FIRE DEPTS FLEETMAP. Communications to Elite Medical FED are NOT available at this time via the EMS FLEETMAP.ELITE MED FED12/10/2019Communicatioins to ER at VHS can be performed via zone - 12 (Hospital 1) on channel - 6 (Green Valley) via the CCFD FLEETMAP.
+Communicatioins to ER at VHS can be performed via zone - 12 (Hospital 1) on channel - 6 (ER at VHS) via the ALL OTHER FIRE DEPTS FLEETMAP. Communicatioins to ER at VHS can be performed via zone - varies (Hospital 2) on channel - 12 (NEW HOSP 2) via the EMS FLEETMAP.ER at VHSgreen valley ER
+blue diamond ER12/10/2019Communicatioins to DETOX LOC can be performed via zone - 12 (Hospital 1) on channel - 4 (CROSS ROADS) via the CCFD FLEETMAP.
+Communicatioins to DETOX LOC can be performed via zone - 12 (Hospital 1) on channel - 4 (DETOX LOC) via the ALL OTHER FIRE DEPTS FLEETMAP. Communications to DETOX LOC are NOT available at this time via the EMS FLEETMAP.DETOX LOCcrossroads
+westcare12/10/2019Communicatioins to ER at HCA can be performed via zone - 12 (Hospital 1) on channel - 1 (ALIANTE) via the CCFD FLEETMAP. Communicatioins to ER at HCA can be performed via zone - 12 (Hospital 1) on channel - 1 (ER at HCA) via the CCFD FLEETMAP.
+Communicatioins to ER at HCA can be performed via zone - varies (Hospital 2) on channel - 11 (NEW HOSP 1) via the EMS FLEETMAP.
+Appendix E
+
+Mass Casualty Incident
+
+       Licensed EMS providers who are on duty for a permitted agency may operate within their scope of practice at a receiving facility during a Mass Casualty Incident if that incident is classified as a Level 3, Level 2, Level 1, Extreme MCI or Hostile MCI as defined by the Fire Alarm Office Standard Operating Procedure, M-1 dated 5/09/2016 if requested by an authorized agent of the receiving facility. Further, if the licensed EMS provider is requested through the Incident Commander or Designee to assist with Mass Casualty Incident (as defined above) related patient surge at a hospital to provide triage expertise or act as a liaison with the EMS system they may do so with consideration being made to EMS system needs, status and relevant law.
+
+
+Revised and approved by MAB 12-05-2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
