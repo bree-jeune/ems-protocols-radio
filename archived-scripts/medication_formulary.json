@@ -1,0 +1,1090 @@
+{
+  "metadata": {
+    "source": "Clark County EMS System Formulary",
+    "version": "Effective October 15, 2025",
+    "total_medications": 42
+  },
+  "medications": {
+    "ACETAMINOPHEN": {
+      "trade_name": "ACETAMINOPHEN",
+      "generic_name": "ACETAMINOPHEN",
+      "class": "Analgesic",
+      "action": "Reduction of prostaglandin in CNS for pain relief",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug;",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug;"
+      },
+      "routes": [
+        "IN"
+      ],
+      "indications": [],
+      "contraindications": [
+        "Hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "acetaminophen": {
+      "trade_name": "acetaminophen",
+      "generic_name": "acetaminophen",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "ACETYLSALICYLIC ACID": {
+      "trade_name": "ACETYLSALICYLIC",
+      "generic_name": "ACETYLSALICYLIC ACID",
+      "class": "Nonsteroidal anti-inflammatory",
+      "action": "Platelet inhibition",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Allergy to Aspirin",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Allergy to Aspirin"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Allergy to Aspirin"
+      ],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "ADENOSINE": {
+      "trade_name": "ADENOSINE",
+      "generic_name": "ADENOSINE",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [],
+      "indications": [
+        "SVT"
+      ],
+      "contraindications": [
+        "Second or third degree AV block or sick sinus syndrome (unless patient with a functional artificial pacemaker)",
+        "atrial flutter",
+        "atrial fibrillation. Repeat doses are not indicated if the dysrhythmia occurs after conversion."
+      ],
+      "adverse_reactions": [
+        "Facial flushing",
+        "headache",
+        "sweating",
+        "palpitations"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": true,
+      "protocols": [
+        "Tachycardia/Stable"
+      ]
+    },
+    "ALBUTEROL": {
+      "trade_name": "ALBUTEROL",
+      "generic_name": "ALBUTEROL",
+      "class": "Sympathomimetic ACTION: Bronchodilator DOSE:",
+      "action": "Bronchodilator DOSE:",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug"
+      },
+      "routes": [],
+      "indications": [
+        "Bronchospasm",
+        "Asthma",
+        "COPD"
+      ],
+      "contraindications": [
+        "Hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Tachycardia",
+        "palpitations",
+        "anxiousness",
+        "headache."
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Respiratory Distress"
+      ]
+    },
+    "AMIODARONE": {
+      "trade_name": "AMIODARONE",
+      "generic_name": "AMIODARONE",
+      "class": "Antiarrhythmic",
+      "action": "Suppresses ventricular ectopy; increases ventricular fibrillation threshold",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug; cardiogenic shock; high grade AV block; marked sinus bradycardia; or bradycardia with ventricular escape beats",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug; cardiogenic shock; high grade AV block; marked sinus bradycardia; or bradycardia with ventricular escape beats"
+      },
+      "routes": [],
+      "indications": [
+        "Ventricular Fibrillation",
+        "Ventricular Tachycardia"
+      ],
+      "contraindications": [
+        "Hypersensitivity to the drug",
+        "cardiogenic shock",
+        "high grade AV block",
+        "marked sinus bradycardia",
+        "or bradycardia with ventricular escape beats"
+      ],
+      "adverse_reactions": [
+        "Seizures",
+        "respiratory depression",
+        "restlessness",
+        "confusion",
+        "tinnitus",
+        "blurred vision",
+        "numbness",
+        "muscle twitching",
+        "hypotension",
+        "bradycardia",
+        "heart block",
+        "nausea",
+        "vomiting."
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Cardiac Arrest",
+        "Tachycardia/Unstable"
+      ]
+    },
+    "ATROPINE SULFATE": {
+      "trade_name": "ATROPINE",
+      "generic_name": "ATROPINE SULFATE",
+      "class": "Parasympathetic blocker",
+      "action": "Cholinergic blocking agent; increases rate of SA node discharge; increases conduction",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: None",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: None"
+      },
+      "routes": [],
+      "indications": [
+        "Bradycardia",
+        "Organophosphate Poisoning"
+      ],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Bradycardia"
+      ]
+    },
+    "BRONCHODILATOR METERED DOSE INHALER": {
+      "trade_name": "BRONCHODILATOR",
+      "generic_name": "BRONCHODILATOR METERED DOSE INHALER",
+      "class": "Sympathomimetic",
+      "action": "Bronchodilator",
+      "dose": {
+        "adult": "Assist the patient in administering their own",
+        "pediatric": "",
+        "raw": "Assist the patient in administering their own"
+      },
+      "routes": [
+        "IN"
+      ],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "Bronchodilator Metered Dose Inhaler": {
+      "trade_name": "Bronchodilator",
+      "generic_name": "Bronchodilator Metered Dose Inhaler",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Sensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Tachycardia",
+        "palpitations",
+        "anxiousness",
+        "headache"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "CALCIUM CHLORIDE": {
+      "trade_name": "CALCIUM",
+      "generic_name": "CALCIUM CHLORIDE",
+      "class": "Electrolyte",
+      "action": "Increases myocardial contractility; increases myocardial excitability; decreases heart rate",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: None",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: None"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "DIAZEPAM": {
+      "trade_name": "DIAZEPAM",
+      "generic_name": "DIAZEPAM",
+      "class": "Antianxiety/Anticonvulsant",
+      "action": "CNS Depressant",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity; hypotension",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity; hypotension"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Hypersensitivity",
+        "hypotension"
+      ],
+      "adverse_reactions": [
+        "Respiratory depression",
+        "CNS depression",
+        "nausea",
+        "vomiting"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "DIPHENHYDRAMINE HYDROCHLORIDE": {
+      "trade_name": "DIPHENHYDRAMINE",
+      "generic_name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+      "class": "Antihistamine",
+      "action": "Blocks histamine receptors; has some sedative effects; anticholinergic",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Sedation",
+        "palpitations",
+        "decreased blood pressure",
+        "headache",
+        "dries (thickens) bronchial secretions",
+        "blurred vision"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "DROPERIDOL": {
+      "trade_name": "DROPERIDOL",
+      "generic_name": "DROPERIDOL",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Suspected STEMI or chest pain; hypotension; respiratory depression; hypersensitivity to the drug; known prolonged QT interval",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Suspected STEMI or chest pain; hypotension; respiratory depression; hypersensitivity to the drug; known prolonged QT interval"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Suspected STEMI or chest pain",
+        "hypotension",
+        "respiratory depression",
+        "hypersensitivity to the drug",
+        "known prolonged QT interval"
+      ],
+      "adverse_reactions": [
+        "syncope",
+        "cardiac dysrhythmias"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "EPINEPHRINE 1:1000": {
+      "trade_name": "EPINEPHRINE",
+      "generic_name": "EPINEPHRINE 1:1000",
+      "class": "Sympathomimetic",
+      "action": "Bronchodilation; positive chronotrope; positive inotrope",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: None",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: None"
+      },
+      "routes": [],
+      "indications": [
+        "Anaphylaxis",
+        "Cardiac Arrest",
+        "Severe Asthma"
+      ],
+      "contraindications": [],
+      "adverse_reactions": [
+        "Palpitations due to tachycardia or ectopic beats may produce arrhythmia if cardiac disease is present",
+        "elevated blood pressure",
+        "headache",
+        "anxiousness"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Cardiac Arrest",
+        "Anaphylaxis",
+        "Respiratory Distress"
+      ]
+    },
+    "EPINEHPRHINE 1:10,000": {
+      "trade_name": "EPINEHPRHINE",
+      "generic_name": "EPINEHPRHINE 1:10,000",
+      "class": "Sympathomimetic",
+      "action": "Bronchodilation; positive chronotrope; positive inotrope",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: None",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: None"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [
+        "Palpitations due to tachycardia or ectopic beats may produce arrhythmia if cardiac disease is present",
+        "elevated blood pressure",
+        "headache",
+        "anxiousness"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "EPINEHPRINE 1:100,000": {
+      "trade_name": "EPINEHPRINE",
+      "generic_name": "EPINEHPRINE 1:100,000",
+      "class": "Sympathomimetic",
+      "action": "Bronchodilation; positive chronotrope; positive inotrope",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: None",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: None"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [
+        "Palpitations due to tachycardia or ectopic beats may produce arrhythmia if cardiac disease is present",
+        "elevation of blood pressure",
+        "headache",
+        "anxiousness"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "EPINEPHRINE AUTO-INJECTOR": {
+      "trade_name": "EPINEPHRINE",
+      "generic_name": "EPINEPHRINE AUTO-INJECTOR",
+      "class": "Sympathomimetic",
+      "action": "Bronchodilation; positive chronotrope; positive inotrope",
+      "dose": {
+        "adult": "Assist the patient in administering their own",
+        "pediatric": "",
+        "raw": "Assist the patient in administering their own"
+      },
+      "routes": [
+        "IN"
+      ],
+      "indications": [
+        "Anaphylaxis",
+        "Cardiac Arrest",
+        "Severe Asthma"
+      ],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Cardiac Arrest",
+        "Anaphylaxis",
+        "Respiratory Distress"
+      ]
+    },
+    "Epinephrine auto-injector": {
+      "trade_name": "Epinephrine",
+      "generic_name": "Epinephrine auto-injector",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [],
+      "indications": [
+        "Anaphylaxis",
+        "Cardiac Arrest",
+        "Severe Asthma"
+      ],
+      "contraindications": [],
+      "adverse_reactions": [
+        "Palpitations due to tachycardia or ectopic beats may produce arrhythmia if cardiac disease is present",
+        "elevation of blood pressure",
+        "headache",
+        "anxiousness"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Cardiac Arrest",
+        "Anaphylaxis",
+        "Respiratory Distress"
+      ]
+    },
+    "ETOMIDATE": {
+      "trade_name": "ETOMIDATE",
+      "generic_name": "ETOMIDATE",
+      "class": "Sedative/hypnotic ACTION: CNS Depressant DOSE:",
+      "action": "CNS Depressant DOSE:",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Known hypersensitivity to the drug",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Known hypersensitivity to the drug"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Known hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Pain",
+        "transient skeletal movements",
+        "nausea",
+        "vomiting",
+        "hypoventilation",
+        "hypotension"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "FENTANYL CITRATE": {
+      "trade_name": "FENTANYL",
+      "generic_name": "FENTANYL CITRATE",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [],
+      "indications": [
+        "Severe Pain"
+      ],
+      "contraindications": [
+        "Known hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Respiratory depression",
+        "rapid infusion may produce \"stiff chest syndrome\""
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Pain Management"
+      ]
+    },
+    "GLUCAGON": {
+      "trade_name": "GLUCAGON",
+      "generic_name": "GLUCAGON",
+      "class": "Insulin Antagonist",
+      "action": "Reverses the effects of hypoglycemia",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: None",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: None"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [
+        "Nausea",
+        "vomiting"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "GLUCOSE - ORAL GLUCOSE": {
+      "trade_name": "GLUCOSE",
+      "generic_name": "GLUCOSE - ORAL GLUCOSE",
+      "class": "Carbohydrate",
+      "action": "Quick infusion of sugar into the blood for metabolism",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: None",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: None"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "GLUCOSE - D10": {
+      "trade_name": "GLUCOSE",
+      "generic_name": "GLUCOSE - D10",
+      "class": "Carbohydrate",
+      "action": "Quick infusion of sugar into blood for metabolism",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: None",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: None"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "HYDROMORPHONE": {
+      "trade_name": "HYDROMORPHONE",
+      "generic_name": "HYDROMORPHONE",
+      "class": "Analgesic ACTION: CNS Depressant DOSE:",
+      "action": "CNS Depressant DOSE:",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Known hypersensitivity to the drug; intolerance to opiate analgesics",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Known hypersensitivity to the drug; intolerance to opiate analgesics"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Known hypersensitivity to the drug",
+        "intolerance to opiate analgesics"
+      ],
+      "adverse_reactions": [
+        "Respiratory depression"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "HYDROXOCOBALAMIN": {
+      "trade_name": "HYDROXOCOBALAMIN",
+      "generic_name": "HYDROXOCOBALAMIN",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "IPRATROPIUM BROMIDE": {
+      "trade_name": "IPRATROPIUM",
+      "generic_name": "IPRATROPIUM BROMIDE",
+      "class": "Anticholinergic",
+      "action": "Appears to inhibit vagally mediated reflexes",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Headache",
+        "nausea"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "IPRATROPIUM BROMIDE and ALBUTEROL SULFATE": {
+      "trade_name": "IPRATROPIUM",
+      "generic_name": "IPRATROPIUM BROMIDE and ALBUTEROL SULFATE",
+      "class": "Anticholinergic/ Sympathomimetic",
+      "action": "Appears to inhibit vagally mediated reflexes and acts as a bronchodilator",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to either of the base medications",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to either of the base medications"
+      },
+      "routes": [],
+      "indications": [
+        "Bronchospasm",
+        "Asthma",
+        "COPD"
+      ],
+      "contraindications": [
+        "Hypersensitivity to either of the base medications"
+      ],
+      "adverse_reactions": [
+        "Tachycardia",
+        "palpitations",
+        "anxiousness",
+        "headache",
+        "nausea"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Respiratory Distress"
+      ]
+    },
+    "KETAMINE": {
+      "trade_name": "KETAMINE",
+      "generic_name": "KETAMINE",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [
+        "IN"
+      ],
+      "indications": [],
+      "contraindications": [
+        "Use caution in patients with systolic BP over 180 mm Hg"
+      ],
+      "adverse_reactions": [
+        "Respiratory depression"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "LEVALBUTEROL": {
+      "trade_name": "LEVALBUTEROL",
+      "generic_name": "LEVALBUTEROL",
+      "class": "Bronchodilator",
+      "action": "Relaxation of the bronchial wall smooth muscle",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug"
+      },
+      "routes": [],
+      "indications": [
+        "Bronchospasm",
+        "Asthma",
+        "COPD"
+      ],
+      "contraindications": [
+        "Hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Tachycardia",
+        "palpitations",
+        "anxiousness",
+        "tremors",
+        "nausea",
+        "vomiting"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Respiratory Distress"
+      ]
+    },
+    "LIDOCAINE": {
+      "trade_name": "LIDOCAINE",
+      "generic_name": "LIDOCAINE",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Seizures",
+        "respiratory depression",
+        "dizziness",
+        "restlessness",
+        "confusion",
+        "tinnitus",
+        "blurred vision",
+        "muscle twitching",
+        "hypotension",
+        "bradycardia",
+        "heart block",
+        "nausea",
+        "vomiting"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "MAGNESIUM SULFATE": {
+      "trade_name": "MAGNESIUM",
+      "generic_name": "MAGNESIUM SULFATE",
+      "class": "Electrolyte",
+      "action": "Membrane stabilization; raises seizure threshold",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug; high degree heart block; renal failure",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug; high degree heart block; renal failure"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Hypersensitivity to the drug",
+        "high degree heart block",
+        "renal failure"
+      ],
+      "adverse_reactions": [
+        "Hypotension",
+        "asystole",
+        "respiratory depression",
+        "weakness"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "METOCLOPRAMIDE": {
+      "trade_name": "METOCLOPRAMIDE",
+      "generic_name": "METOCLOPRAMIDE",
+      "class": "Antiemetic",
+      "action": "Dopamine agonist that works by blocking CNS vomiting chemoreceptor trigger zone (CRT)",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Known hypersensitivity to the drug",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Known hypersensitivity to the drug"
+      },
+      "routes": [
+        "IN"
+      ],
+      "indications": [],
+      "contraindications": [
+        "Known hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Restlessness",
+        "hyperactivity",
+        "anxiety",
+        "sedation",
+        "increased GI motility",
+        "use caution in suspected bowel obstruction. Extra-pyramidal reactions have been seen days to hours after treatment. Protect medication from light (photosensitive)."
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "MIDAZOLAM": {
+      "trade_name": "MIDAZOLAM",
+      "generic_name": "MIDAZOLAM",
+      "class": "Anxiolytic ACTION: CNS Depressant DOSE:",
+      "action": "CNS Depressant DOSE:",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug; hypotension; clinical signs of shock",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug; hypotension; clinical signs of shock"
+      },
+      "routes": [],
+      "indications": [
+        "Seizures",
+        "Sedation"
+      ],
+      "contraindications": [
+        "Hypersensitivity to the drug",
+        "hypotension",
+        "clinical signs of shock"
+      ],
+      "adverse_reactions": [
+        "CNS depression",
+        "hypotension",
+        "respiratory depression"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Seizure",
+        "Behavioral Emergencies"
+      ]
+    },
+    "MORPHINE SULFATE": {
+      "trade_name": "MORPHINE",
+      "generic_name": "MORPHINE SULFATE",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "",
+        "pediatric": "",
+        "raw": ""
+      },
+      "routes": [],
+      "indications": [
+        "Severe Pain"
+      ],
+      "contraindications": [
+        "Hypersensitivity to opiates",
+        "head injuries",
+        "chest or abdominal injury",
+        "clinical signs of shock"
+      ],
+      "adverse_reactions": [
+        "Respiratory depression",
+        "nausea",
+        "vomiting",
+        "bradycardia",
+        "orthostatic hypotension",
+        "altered level of consciousness"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Pain Management"
+      ]
+    },
+    "NALOXONE HYDROCHLORIDE": {
+      "trade_name": "NALOXONE",
+      "generic_name": "NALOXONE HYDROCHLORIDE",
+      "class": "Narcotic antagonist",
+      "action": "Reverses the effects of narcotics",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug; intubated patients; the newly born",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug; intubated patients; the newly born"
+      },
+      "routes": [],
+      "indications": [
+        "Opioid Overdose"
+      ],
+      "contraindications": [
+        "Hypersensitivity to the drug",
+        "intubated patients",
+        "the newly born"
+      ],
+      "adverse_reactions": [
+        "Rapid administration causes projectile vomiting"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Overdose/Poisoning",
+        "Altered Mental Status"
+      ]
+    },
+    "NITROGLYCERIN": {
+      "trade_name": "NITROGLYCERIN",
+      "generic_name": "NITROGLYCERIN",
+      "class": "Vasodilator",
+      "action": "Dilates systemic arteries and veins; reduces both preload and afterload",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypotension (do not administer if systolic pressure is below 100 mm Hg unless ordered by a physician; use of erectile dysfunction meds within 48 hours; hypersensitivity to nitrates",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypotension (do not administer if systolic pressure is below 100 mm Hg unless ordered by a physician; use of erectile dysfunction meds within 48 hours; hypersensitivity to nitrates"
+      },
+      "routes": [],
+      "indications": [
+        "Chest Pain",
+        "Acute Coronary Syndrome"
+      ],
+      "contraindications": [
+        "Hypotension (do not administer if systolic pressure is below 100 mm Hg unless ordered by a physician",
+        "use of erectile dysfunction meds within 48 hours",
+        "hypersensitivity to nitrates"
+      ],
+      "adverse_reactions": [
+        "Hypotension"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Chest Pain",
+        "STEMI"
+      ]
+    },
+    "ONDANSETRON HYDROCHLORIDE": {
+      "trade_name": "ONDANSETRON",
+      "generic_name": "ONDANSETRON HYDROCHLORIDE",
+      "class": "",
+      "action": "",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypersensitivity to the drug",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypersensitivity to the drug"
+      },
+      "routes": [],
+      "indications": [
+        "Nausea",
+        "Vomiting"
+      ],
+      "contraindications": [
+        "Hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Headache",
+        "chest pain",
+        "dizziness",
+        "hypotension"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": [
+        "Nausea/Vomiting"
+      ]
+    },
+    "OXYMETAZOLINE": {
+      "trade_name": "OXYMETAZOLINE",
+      "generic_name": "OXYMETAZOLINE",
+      "class": "Sympathomimetic",
+      "action": "Direct local vasoconstriction",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Monoamine oxidase inhibitor (MAOI) use within 14 days",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Monoamine oxidase inhibitor (MAOI) use within 14 days"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Monoamine oxidase inhibitor (MAOI) use within 14 days"
+      ],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "PHENYLEPHRINE": {
+      "trade_name": "PHENYLEPHRINE",
+      "generic_name": "PHENYLEPHRINE",
+      "class": "Sympathomimetic",
+      "action": "Direct local vasoconstriction",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Ventricular tachycardia; severe coronary disease; head injured patients with altered mental status",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Ventricular tachycardia; severe coronary disease; head injured patients with altered mental status"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Ventricular tachycardia",
+        "severe coronary disease",
+        "head injured patients with altered mental status"
+      ],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "PHENYLEPHRINE PUSH DOSE": {
+      "trade_name": "PHENYLEPHRINE",
+      "generic_name": "PHENYLEPHRINE PUSH DOSE",
+      "class": "Sympathomimetic",
+      "action": "Alpha-1 adrenergic receptor agonist",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Hypovolemic shock is a relative contraindication. Hypotension due to hypovolemia or distributive shock should be addressed with a fluid bolus before administering Push Dose",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Hypovolemic shock is a relative contraindication. Hypotension due to hypovolemia or distributive shock should be addressed with a fluid bolus before administering Push Dose"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Hypovolemic shock is a relative contraindication. Hypotension due to hypovolemia or distributive shock should be addressed with a fluid bolus before administering Push Dose"
+      ],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "PROCHLORPERAZINE": {
+      "trade_name": "PROCHLORPERAZINE",
+      "generic_name": "PROCHLORPERAZINE",
+      "class": "Antiemetic",
+      "action": "Dopamine agonist with antiemetic actions",
+      "dose": {
+        "adult": "CONTRAINDICATIONS: Known hypersensitivity to the drug",
+        "pediatric": "",
+        "raw": "CONTRAINDICATIONS: Known hypersensitivity to the drug"
+      },
+      "routes": [],
+      "indications": [],
+      "contraindications": [
+        "Known hypersensitivity to the drug"
+      ],
+      "adverse_reactions": [
+        "Possible dystonic reactions"
+      ],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    },
+    "SODIUM BICARBONATE": {
+      "trade_name": "SODIUM",
+      "generic_name": "SODIUM BICARBONATE",
+      "class": "Alkalinizing agent ACTION: Increases blood pH DOSE:",
+      "action": "Increases blood pH DOSE:",
+      "dose": {
+        "adult": "First Response Low-Risk Alpha Evaluate and Release Form (example)",
+        "pediatric": "",
+        "raw": "First Response Low-Risk Alpha Evaluate and Release Form (example)"
+      },
+      "routes": [
+        "IN"
+      ],
+      "indications": [],
+      "contraindications": [],
+      "adverse_reactions": [],
+      "onset": "Not specified",
+      "repeat_dose_allowed": false,
+      "protocols": []
+    }
+  }
+}
